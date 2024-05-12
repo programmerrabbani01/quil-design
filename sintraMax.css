@@ -1,0 +1,236 @@
+@media only screen and (max-width: 1199px) {
+  #sintraMax {
+    padding: 83px 30px 63px;
+  }
+
+  #sintraMax .sintraMaxInner {
+    padding: 40px 100px 17px;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperSubTitle {
+    text-align: center;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperSubTitle
+    h1 {
+    font-size: 24px;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperTitle {
+    text-align: center;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperTopImage {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperCommentTitle {
+    padding-top: 67px;
+    padding-bottom: 11px;
+    padding-left: 0;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperComment
+    .sintraMaxInnerWrapperCommentContent {
+    padding-bottom: 41px;
+    padding-top: 12px;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperComment
+    .sintraMaxInnerWrapperCommentContent
+    .sintraMaxInnerWrapperCommentContentLeft
+    .sintraMaxInnerWrapperCommentContentLeftInner {
+    padding: 30px 15px 0;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #sintraMax {
+    padding: 110px 20px 63px;
+  }
+
+  #sintraMax .sintraMaxInner {
+    padding: 40px 30px 30px;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperSubTitle {
+    text-align: center;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperSubTitle
+    h1 {
+    font-size: 22px;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperTitle {
+    text-align: center;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperTopImage {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperCommentTitle {
+    padding-top: 67px;
+    padding-bottom: 0px;
+    padding-left: 44px;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperComment
+    .sintraMaxInnerWrapperCommentContent {
+    padding-bottom: 41px;
+    padding-top: 12px;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperComment
+    .sintraMaxInnerWrapperCommentContent
+    .sintraMaxInnerWrapperCommentContentLeft
+    .sintraMaxInnerWrapperCommentContentLeftInner {
+    padding: 30px 15px 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #sintraMax {
+    padding-top: 28px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 0px;
+  }
+
+  #sintraMax .sintraMaxInner {
+    padding: 40px 0 30px 4px;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperSubTitle {
+    text-align: left;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperSubTitle
+    h1 {
+    font-size: 17px;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperTitle {
+    text-align: left;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperTitle
+    h1 {
+    font-size: 29px;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperTopImage {
+    margin-top: 20px;
+    margin-left: -40px;
+    margin-right: -20px;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperCommentTitle {
+    padding-top: 44px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperComment
+    .sintraMaxInnerWrapperCommentContent {
+    padding-bottom: 37px;
+    padding-top: 29px;
+    display: inline-block;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperComment
+    .sintraMaxInnerWrapperCommentContent
+    .sintraMaxInnerWrapperCommentContentLeft {
+    width: 100%;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperComment
+    .sintraMaxInnerWrapperCommentContent
+    .sintraMaxInnerWrapperCommentContentLeft
+    .sintraMaxInnerWrapperCommentContentLeftInner {
+    padding: 30px 10px 0;
+  }
+
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperComment
+    .sintraMaxInnerWrapperCommentContent
+    .sintraMaxInnerWrapperCommentContentRight {
+    width: 100%;
+  }
+  #sintraMax
+    .sintraMaxInner
+    .sintraMaxInnerWrapper
+    .sintraMaxInnerWrapperComment
+    .sintraMaxInnerWrapperCommentContent
+    .sintraMaxInnerWrapperCommentContentRight
+    .sintraMaxInnerWrapperCommentContentRightInner {
+    padding: 34px 10px 0;
+    margin-top: -50px;
+    position: relative;
+    z-index: 1;
+  }
+}

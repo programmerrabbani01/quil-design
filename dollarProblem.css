@@ -1,0 +1,418 @@
+@media only screen and (max-width: 1199px) {
+  #dollarProblem {
+    padding-top: 44px;
+    padding-bottom: 39px;
+  }
+  #dollarProblem .dollarProblemTop {
+    padding-top: 30px;
+    padding-right: 180px;
+    padding-bottom: 38px;
+    padding-left: 180px;
+  }
+  #dollarProblem
+    .dollarProblemTop
+    .dollarProblemTopInner
+    .dollarProblemTopInnerContent
+    h1 {
+    font-size: 36px;
+  }
+
+  #dollarProblem .dollarProblemBottom {
+    padding: 96px 30px 56px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftSubTitle
+    p {
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBox {
+    padding: 20px 15px 18px 10px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBox
+    .dollarProblemBottomLeftBoxContent
+    .dollarProblemBottomLeftBoxContentTitle
+    h1 {
+    font-size: 22px;
+    line-height: 1.1em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBox
+    .dollarProblemBottomLeftBoxIcon
+    .dollarProblemBottomLeftBoxIconInner {
+    text-align: right;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextOne
+    P {
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextTwo {
+    margin-top: 5px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextTwo
+    p {
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightSubTitle
+    p {
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBox
+    .dollarProblemBottomRightBoxContent
+    .dollarProblemBottomRightBoxContentTitle
+    h1 {
+    font-size: 22px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBox
+    .dollarProblemBottomRightBoxIcon {
+    text-align: right;
+  }
+
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBoxBottomTextOne
+    p {
+    line-height: 1.5em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBoxBottomTextTwo
+    p {
+    line-height: 1.5em;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #dollarProblem {
+    padding-top: 69px;
+    padding-bottom: 49px;
+  }
+
+  #dollarProblem .dollarProblemTop {
+    padding-top: 30px;
+    padding-right: 80px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+  }
+
+  #dollarProblem
+    .dollarProblemTop
+    .dollarProblemTopInner
+    .dollarProblemTopInnerContent
+    h1 {
+    font-size: 38px;
+  }
+
+  #dollarProblem .dollarProblemBottom {
+    padding: 69px 20px 46px 10px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftSubTitle
+    p {
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBox {
+    padding: 20px 15px 18px 12px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBox
+    .dollarProblemBottomLeftBoxContent
+    .dollarProblemBottomLeftBoxContentTitle
+    h1 {
+    font-size: 18px;
+    line-height: 1.1em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBox
+    .dollarProblemBottomLeftBoxIcon
+    .dollarProblemBottomLeftBoxIconInner {
+    text-align: right;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextOne
+    P {
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextTwo {
+    margin-top: 0px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextTwo
+    p {
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightSubTitle
+    p {
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBox
+    .dollarProblemBottomRightBoxContent
+    .dollarProblemBottomRightBoxContentTitle
+    h1 {
+    font-size: 18px;
+    line-height: 1.1em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBox
+    .dollarProblemBottomRightBoxIcon {
+    text-align: right;
+  }
+
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBoxBottomTextOne
+    p {
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBoxBottomTextTwo
+    p {
+    line-height: 1.4em;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #dollarProblem {
+    padding-top: 50px;
+    padding-bottom: 31px;
+  }
+
+  #dollarProblem .dollarProblemTop {
+    padding-top: 30px;
+    padding-right: 14px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+  }
+
+  #dollarProblem
+    .dollarProblemTop
+    .dollarProblemTopInner
+    .dollarProblemTopInnerContent
+    h1 {
+    font-size: 25px;
+  }
+
+  #dollarProblem .dollarProblemBottom {
+    padding: 43px 20px 0;
+    display: block;
+  }
+  #dollarProblem .dollarProblemBottom .dollarProblemBottomLeft {
+    width: 100%;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftTitle
+    h1 {
+    font-size: 20px;
+    color: #e39093;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftSubTitle {
+    margin-bottom: 20px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftSubTitle
+    p {
+    line-height: 1.4em;
+    font-size: 20px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBox {
+    padding: 20px 15px 18px 12px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBox
+    .dollarProblemBottomLeftBoxContent
+    .dollarProblemBottomLeftBoxContentTitle
+    h1 {
+    font-size: 18px;
+    line-height: 1.1em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBox
+    .dollarProblemBottomLeftBoxIcon
+    .dollarProblemBottomLeftBoxIconInner {
+    text-align: right;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextOne {
+    margin-top: 15px;
+    margin-bottom: 0;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextOne
+    P {
+    font-size: 15px;
+    line-height: 1.4em;
+  }
+
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextTwo {
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomLeft
+    .dollarProblemBottomLeftBoxBottomTextTwo
+    p {
+    font-size: 15px;
+    line-height: 1.4em;
+  }
+  #dollarProblem .dollarProblemBottom .borderMobile {
+    display: inline-block;
+  }
+
+  #dollarProblem .dollarProblemBottom .dollarProblemBottomRight {
+    width: 100%;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightTitle {
+    margin-top: 30px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightTitle
+    h1 {
+    font-size: 21px;
+    color: #95edc9;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightSubTitle {
+    margin-bottom: 20px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightSubTitle
+    p {
+    font-size: 20px;
+    line-height: 1.4em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBox {
+    padding: 18px 15px 10px 5px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBox
+    .dollarProblemBottomRightBoxContent
+    .dollarProblemBottomRightBoxContentTitle
+    h1 {
+    font-size: 18px;
+    line-height: 1em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBox
+    .dollarProblemBottomRightBoxIcon {
+    text-align: right;
+  }
+
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBoxBottomTextOne
+    p {
+    font-size: 15;
+    line-height: 1.2em;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBoxBottomTextTwo {
+    margin-top: 5px;
+    margin-bottom: 30px;
+  }
+  #dollarProblem
+    .dollarProblemBottom
+    .dollarProblemBottomRight
+    .dollarProblemBottomRightBoxBottomTextTwo
+    p {
+    font-size: 22px;
+    line-height: 1.2em;
+  }
+}

@@ -1,0 +1,329 @@
+@media only screen and (max-width: 1199px) {
+  #sintraBots {
+    padding-top: 56px;
+    padding-bottom: 72px;
+  }
+
+  #sintraBots .sintraBotsInner {
+    padding-top: 23px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperTop
+    .sintraBotsInnerWrapperTopTitle
+    h1 {
+    font-size: 43px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom {
+    padding-top: 30px;
+    padding-right: 6px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomLeft
+    .sintraBotsInnerWrapperBottomLeftInner {
+    padding: 57px 15px 36px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner {
+    padding: 39px 40px 15px 10px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeImage {
+    margin-bottom: 0px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeImage
+    img {
+    width: 15%;
+    height: auto;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeTitle {
+    margin-top: 10px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeTitle
+    h1 {
+    font-size: 26px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #sintraBots {
+    padding-top: 39px;
+    padding-bottom: 42px;
+  }
+
+  #sintraBots .sintraBotsInner {
+    padding-top: 23px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperTop
+    .sintraBotsInnerWrapperTopTitle
+    h1 {
+    font-size: 38px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom {
+    padding-top: 29px;
+    padding-right: 6px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomLeft
+    .sintraBotsInnerWrapperBottomLeftInner {
+    padding: 56px 15px 33px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner {
+    padding: 39px 40px 15px 10px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeImage {
+    margin-bottom: 0px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeImage
+    img {
+    width: 15%;
+    height: auto;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeTitle {
+    margin-top: 10px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeTitle
+    h1 {
+    font-size: 26px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #sintraBots {
+    padding-top: 39px;
+    padding-bottom: 29px;
+  }
+
+  #sintraBots .sintraBotsInner {
+    padding-top: 23px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperTop
+    .sintraBotsInnerWrapperTopTitle
+    h1 {
+    font-size: 25px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom {
+    padding: 34px 5px 26px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomLeft
+    .sintraBotsInnerWrapperBottomLeftInner {
+    padding: 33px 5px 21px 0;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomLeft
+    .sintraBotsInnerWrapperBottomLeftInner
+    .sintraBotsInnerWrapperBottomLeftInnerContent
+    .sintraBotsInnerWrapperBottomLeftInnerContentImage {
+    margin-left: 0;
+    margin-top: -50px;
+    margin-right: -21px;
+    text-align: right;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomLeft
+    .sintraBotsInnerWrapperBottomLeftInner
+    .sintraBotsInnerWrapperBottomLeftInnerContent
+    .sintraBotsInnerWrapperBottomLeftInnerContentTitle
+    h1 {
+    font-size: 18px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomLeft
+    .sintraBotsInnerWrapperBottomLeftInner
+    .sintraBotsInnerWrapperBottomLeftInnerContent
+    .sintraBotsInnerWrapperBottomLeftInnerContentLists
+    ul
+    li
+    p {
+    font-size: 12px;
+    line-height: 1.1em;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner {
+    padding: 37px 5px 13px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeImage {
+    margin-bottom: 10px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeImage
+    img {
+    width: 25%;
+    height: auto;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeTitle {
+    margin-top: 0px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeTitle
+    h1 {
+    font-size: 18px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeList {
+    padding-top: 15px;
+    padding-bottom: 5px;
+  }
+  #sintraBots
+    .sintraBotsInner
+    .sintraBotsInnerWrapper
+    .sintraBotsInnerWrapperBottom
+    .sintraBotsInnerWrapperBottomRight
+    .sintraBotsInnerWrapperBottomRightInner
+    .sintraBotsInnerWrapperBottomRightInnerWrappe
+    .sintraBotsInnerWrapperBottomRightInnerWrappeList
+    ul
+    li
+    p {
+    font-size: 12px !important;
+    line-height: 1.1em !important;
+  }
+}

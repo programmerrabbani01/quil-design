@@ -1,0 +1,70 @@
+@media only screen and (max-width: 1199px) {
+  #automateWork {
+    padding-top: 0px;
+  }
+
+  #automateWork .automateWorkInner .awIContent {
+    padding: 0 80px 55px;
+  }
+  #automateWork
+    .automateWorkInner
+    .awIContent
+    .awIContentDetails
+    .awICDHeading
+    h1 {
+    font-size: 58px;
+  }
+  #automateWork .automateWorkInner .awIContent .awIContentDetails .awICDPara p {
+    font-size: 22px;
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  #automateWork .automateWorkInner .awIContent {
+    padding: 11px 40px 68px;
+  }
+  #automateWork
+    .automateWorkInner
+    .awIContent
+    .awIContentDetails
+    .awICDHeading
+    h1 {
+    font-size: 52px;
+    line-height: 1em;
+  }
+  #automateWork .automateWorkInner .awIContent .awIContentDetails .awICDPara p {
+    font-size: 24px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #automateWork .automateWorkInner .awIContent {
+    max-width: 100%;
+    padding: 29px 30px 124px;
+    margin-top: -33px;
+  }
+  #automateWork
+    .automateWorkInner
+    .awIContent
+    .awIContentDetails
+    .awICDHeading
+    h1 {
+    font-size: 27px;
+    line-height: 1.1em;
+  }
+  #automateWork .automateWorkInner .awIContent .awIContentDetails .awICDPara p {
+    font-size: 17px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  #automateWork
+    .automateWorkInner
+    .awIContent
+    .awIContentDetails
+    .awICDButton
+    a {
+    width: 100%;
+  }
+}

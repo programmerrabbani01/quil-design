@@ -1,0 +1,477 @@
+@media only screen and (max-width: 1199px) {
+  #meetSintrabots .meetSintrabotsTop {
+    padding: 60px 80px 79px 93px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage {
+    padding: 29px 21px 55px 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo {
+    margin-top: -50px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoILists {
+    padding-top: 25px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIImage {
+    margin-right: -40px;
+    margin-left: -40px;
+    margin-top: 0px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerReview {
+    padding-right: 125px;
+    padding-left: 125px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerReview
+    .meetSintrabotsTopInnerReviewInner
+    .meetSintrabotsTopInnerReviewInnerWrapper
+    .meetSintrabotsTopInnerReviewInnerWrapperInner
+    .meetSintrabotsTopInnerReviewInnerWrapperInnerContent
+    .meetSintrabotsTopInnerReviewIWICInner
+    .meetSintrabotsTopInnerReviewIWICInnerProfile
+    .meetSintrabotsTopInnerReviewIWICInnerProfileImage {
+    width: 25%;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerReview
+    .meetSintrabotsTopInnerReviewInner
+    .meetSintrabotsTopInnerReviewInnerWrapper
+    .meetSintrabotsTopInnerReviewInnerWrapperInner
+    .meetSintrabotsTopInnerReviewInnerWrapperInnerContent
+    .meetSintrabotsTopInnerReviewIWICInner
+    .meetSintrabotsTopInnerReviewIWICInnerProfile
+    .meetSintrabotsTopInnerReviewIWICInnerProfileContent {
+    width: 75%;
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #meetSintrabots .meetSintrabotsTop {
+    padding: 60px 80px 67px 93px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage {
+    padding: 29px 21px 24px 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo {
+    margin-top: -50px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoITextBlock {
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIHeading
+    h1 {
+    font-size: 31px;
+    line-height: 1em;
+    letter-spacing: -0.9px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoILists {
+    padding-top: 18px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoILists
+    ul
+    li
+    .meetSintrabotsTIIIWTwoIListsText
+    p {
+    letter-spacing: 0px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoILists
+    ul
+    li
+    .meetSintrabotsTIIIWTwoIListsTextTwo
+    p {
+    letter-spacing: 0px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoILists
+    ul
+    li
+    .meetSintrabotsTIIIWTwoIListsTextThree
+    p {
+    letter-spacing: 0px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIHeadingTwo
+    h1 {
+    display: none;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIImage {
+    margin-right: -100px;
+    margin-left: -100px;
+    margin-top: -97px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerReview {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerReview
+    .meetSintrabotsTopInnerReviewInner
+    .meetSintrabotsTopInnerReviewInnerWrapper {
+    padding: 29px 20px 42px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerReview
+    .meetSintrabotsTopInnerReviewInner
+    .meetSintrabotsTopInnerReviewInnerWrapper
+    .meetSintrabotsTopInnerReviewInnerWrapperInner
+    .meetSintrabotsTopInnerReviewInnerWrapperInnerContent
+    .meetSintrabotsTopInnerReviewIWICInner
+    .meetSintrabotsTopInnerReviewIWICInnerProfile
+    .meetSintrabotsTopInnerReviewIWICInnerProfileImage {
+    width: 25%;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerReview
+    .meetSintrabotsTopInnerReviewInner
+    .meetSintrabotsTopInnerReviewInnerWrapper
+    .meetSintrabotsTopInnerReviewInnerWrapperInner
+    .meetSintrabotsTopInnerReviewInnerWrapperInnerContent
+    .meetSintrabotsTopInnerReviewIWICInner
+    .meetSintrabotsTopInnerReviewIWICInnerProfile
+    .meetSintrabotsTopInnerReviewIWICInnerProfileContent {
+    width: 75%;
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #meetSintrabots {
+    padding-top: 86px;
+  }
+  #meetSintrabots .meetSintrabotsTop {
+    padding: 60px 10px 38px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage {
+    padding: 29px 0 27px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapper {
+    margin-top: -132px;
+    margin-right: -158px;
+    margin-left: -167px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo {
+    margin-top: -50px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoITextBlock {
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIHeading
+    h1 {
+    font-size: 24px;
+    line-height: 1.1em;
+    letter-spacing: -0.7px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoITextBlockTwo
+    p {
+    font-size: 18px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoILists {
+    padding-top: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoILists
+    ul
+    li
+    .meetSintrabotsTIIIWTwoIListsText
+    p {
+    font-size: 13px;
+    line-height: 1.2em;
+    letter-spacing: 0.2px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoILists
+    ul
+    li
+    .meetSintrabotsTIIIWTwoIListsTextTwo
+    p {
+    font-size: 13px;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoILists
+    ul
+    li
+    .meetSintrabotsTIIIWTwoIListsTextThree
+    p {
+    font-size: 13px;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIProductButton {
+    padding: 19px 0px 27px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIHeadingTwo {
+    margin-top: 50px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIHeadingTwo
+    h1 {
+    display: block;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIHeadingTwo
+    h1 {
+    line-height: 1.1em;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIImage {
+    margin-right: -50px;
+    margin-left: -50px;
+    margin-top: -40px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIBottomLists {
+    padding-top: 11px;
+    padding-bottom: 0;
+    text-align: center;
+    width: 100%;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerImage
+    .meetSintrabotsTopInnerImageInner
+    .meetSintrabotsTopInnerImageInnerWrapperTwo
+    .meetSintrabotsTopInnerImageInnerWrapperTwoInner
+    .meetSintrabotsTIIIWTwoIBottomLists
+    ul
+    li
+    .meetSintrabotsTIIIWTwoIBottomListsText
+    p {
+    font-size: 15px;
+    line-height: 1.2em;
+    letter-spacing: 0.1px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerReview
+    .meetSintrabotsTopInnerReviewInner
+    .meetSintrabotsTopInnerReviewInnerWrapper {
+    padding: 29px 10px 42px;
+  }
+  #meetSintrabots
+    .meetSintrabotsTop
+    .meetSintrabotsTopInner
+    .meetSintrabotsTopInnerReview
+    .meetSintrabotsTopInnerReviewInner
+    .meetSintrabotsTopInnerReviewInnerWrapper
+    .meetSintrabotsTopInnerReviewInnerWrapperInner
+    .meetSintrabotsTopInnerReviewInnerWrapperInnerContent
+    .meetSintrabotsTopInnerReviewIWICInner
+    .meetSintrabotsTopInnerReviewIWICInnerPara
+    p {
+    font-size: 15px;
+  }
+}

@@ -1,0 +1,416 @@
+@media only screen and (max-width: 1199px) {
+  #botsChatGPT .botsCloud {
+    padding-top: 61px;
+    padding-bottom: 27px;
+  }
+
+  #botsChatGPT .botsCloud .botsCloudInner .botsCloudInnerContent {
+    padding: 66px 155px 0 40px;
+  }
+  #botsChatGPT
+    .botsCloud
+    .botsCloudInner
+    .botsCloudInnerContent
+    .bCicDetails
+    .bCicDInner
+    h1 {
+    font-size: 48px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper
+    .regularChatGPTInnerContentWrapperInner
+    .regularChatGPTIcWISubTitle
+    h1 {
+    color: #fff;
+  }
+
+  /*  */
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent {
+    padding-top: 92px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper {
+    padding: 13px 394px 48px 50px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper
+    .regularChatGPTInnerContentWrapperInner
+    .regularChatGPTIcWITitle
+    h1 {
+    font-size: 39px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentImage {
+    margin-left: 145px;
+    margin-right: 90px;
+  }
+
+  /*  */
+
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper {
+    justify-content: space-between;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperLeft
+    .autopilotChatGPTInnerWrapperLeftImage {
+    margin-right: -54px;
+    margin-top: -28px;
+    margin-left: -30px;
+  }
+
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight {
+    width: 41.66667%;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper {
+    padding: 186px 64px 23px 0;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper
+    .autopilotChatGPTInnerWrapperRightWrapperInner
+    .autopilotChatGpTIWrWISubTitle
+    h1 {
+    color: #fff;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper
+    .autopilotChatGPTInnerWrapperRightWrapperInner
+    .autopilotChatGpTIWrWITitle
+    h1 {
+    font-size: 35px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #botsChatGPT .botsCloud {
+    padding-top: 29px;
+    padding-bottom: 3px;
+  }
+  #botsChatGPT .botsCloud .botsCloudInner .botsCloudInnerContent {
+    padding: 35px 183px 35px 50px;
+  }
+  #botsChatGPT
+    .botsCloud
+    .botsCloudInner
+    .botsCloudInnerContent
+    .bCicDetails
+    .bCicDInner {
+    margin-left: 20px;
+  }
+  #botsChatGPT
+    .botsCloud
+    .botsCloudInner
+    .botsCloudInnerContent
+    .bCicDetails
+    .bCicDInner
+    h1 {
+    font-size: 43px;
+  }
+
+  /*  */
+
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper {
+    padding: 8px 245px 36px 50px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper
+    .regularChatGPTInnerContentWrapperInner
+    .regularChatGPTIcWITitle
+    h1 {
+    font-size: 35px;
+    line-height: 1.1em;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper
+    .regularChatGPTInnerContentWrapperInner
+    .regularChatGPTIcWIPara
+    h1 {
+    font-size: 22px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentImage {
+    margin-left: 39px;
+    margin-right: 193px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentImage
+    img {
+    width: 40%;
+  }
+
+  /*  */
+
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper {
+    padding-bottom: 156px;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperLeft
+    .autopilotChatGPTInnerWrapperLeftImage {
+    margin-right: -39px;
+    margin-top: -30px;
+    margin-left: -132px;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight {
+    width: 50%;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper {
+    padding: 150px 31px 23px 0;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper
+    .autopilotChatGPTInnerWrapperRightWrapperInner
+    .autopilotChatGpTIWrWITitle
+    h1 {
+    font-size: 28px;
+  }
+
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper
+    .autopilotChatGPTInnerWrapperRightWrapperInner
+    .autopilotChatGpTIWrWIPara
+    h1 {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #botsChatGPT .botsCloud {
+    padding-top: 0px;
+    padding-bottom: 2px;
+  }
+  #botsChatGPT .botsCloud .botsCloudInner .botsCloudInnerContent {
+    padding: 18px 27px 21px 30px;
+  }
+  #botsChatGPT
+    .botsCloud
+    .botsCloudInner
+    .botsCloudInnerContent
+    .bCicDetails
+    .bCicDInner {
+    margin-left: 0px;
+    margin-top: 40px;
+  }
+  #botsChatGPT
+    .botsCloud
+    .botsCloudInner
+    .botsCloudInnerContent
+    .bCicDetails
+    .bCicDInner
+    h1 {
+    font-size: 26px;
+    text-align: center;
+  }
+  /*  */
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent {
+    padding-top: 14px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper {
+    padding: 26px 125px 0 31px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper
+    .regularChatGPTInnerContentWrapperInner
+    .regularChatGPTIcWISubTitle
+    h1 {
+    font-size: 19px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper
+    .regularChatGPTInnerContentWrapperInner
+    .regularChatGPTIcWITitle
+    h1 {
+    font-size: 22px;
+    line-height: 1em;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentWrapper
+    .regularChatGPTInnerContentWrapperInner
+    .regularChatGPTIcWIPara
+    h1 {
+    font-size: 17px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentImage {
+    margin-left: -70px;
+    margin-right: -30px;
+  }
+  #botsChatGPT
+    .regularChatGPT
+    .regularChatGPTInner
+    .regularChatGPTInnerContent
+    .regularChatGPTInnerContentImage
+    img {
+    width: 35%;
+  }
+
+  /*  */
+
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper {
+    padding-bottom: 40px;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperLeft {
+    width: 33.33333%;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperLeft
+    .autopilotChatGPTInnerWrapperLeftImage {
+    margin-right: -142px;
+    margin-top: -20px;
+    margin-left: -254px;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight {
+    width: 66.66667%;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper {
+    padding: 97px 29px 23px 51px;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper
+    .autopilotChatGPTInnerWrapperRightWrapperInner
+    .autopilotChatGpTIWrWISubTitle
+    h1 {
+    font-size: 19px;
+    color: #66efad;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper
+    .autopilotChatGPTInnerWrapperRightWrapperInner
+    .autopilotChatGpTIWrWITitle
+    h1 {
+    font-size: 20px;
+    line-height: 1em;
+  }
+  #botsChatGPT
+    .autopilotChatGPT
+    .autopilotChatGPTInner
+    .autopilotChatGPTInnerWrapper
+    .autopilotChatGPTInnerWrapperRight
+    .autopilotChatGPTInnerWrapperRightWrapper
+    .autopilotChatGPTInnerWrapperRightWrapperInner
+    .autopilotChatGpTIWrWIPara
+    h1 {
+    font-size: 15px;
+  }
+}

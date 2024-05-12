@@ -1,0 +1,27 @@
+@media only screen and (max-width: 1199px) {
+  #topBanner {
+    padding-top: 0px;
+  }
+  #topBanner .tBiCImage img {
+    width: 80%;
+  }
+  #topBanner .tBiContent {
+    margin-top: -90px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  #topBanner {
+    padding-top: 45px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #topBanner {
+    padding-top: 23px;
+  }
+  #topBanner .tBiContent {
+    margin: 0 -21px 0 -38px;
+  }
+  #topBanner .tBiCImage img {
+    width: 100%;
+  }
+}
