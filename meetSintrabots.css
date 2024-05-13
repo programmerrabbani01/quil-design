@@ -75,6 +75,284 @@
     width: 75%;
     padding: 0;
   }
+
+  #meetSintrabots .meetSintrabotsMiddle {
+    background-color: #0f0f0f;
+    padding: 36px 30px 90px;
+  }
+
+  #meetSintrabots .meetSintrabotsMiddle .meetSintrabotsMiddleInnerTop {
+    padding: 68px 180px 44px;
+  }
+
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerTop
+    .meetSintrabotsMiddleInnerTopWrapper
+    .meetSintrabotsMiddleInnerTopPara
+    p {
+    font-size: 20px;
+    letter-spacing: 0px;
+    padding: 0 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne {
+    padding: 61px 20px 78px 15px;
+  }
+
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIButton
+    a {
+    padding: 20px 1.2rem;
+  }
+
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIHeader
+    h1 {
+    font-size: 28px;
+  }
+
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara
+    h1 {
+    font-size: 13px;
+    padding: 0;
+  }
+
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo {
+    padding: 61px 30px 78px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIHeader
+    h1 {
+    font-size: 32px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree {
+    padding: 61px 30px 78px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIHeader
+    h1 {
+    font-size: 32px;
+  }
+
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour {
+    padding: 61px 30px 78px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIHeader
+    h1 {
+    font-size: 32px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne {
+    padding: 61px 20px 78px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIButton
+    a {
+    padding: 20px 1.2rem;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIHeader
+    h1 {
+    font-size: 28px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara
+    h1 {
+    font-size: 13px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo {
+    padding: 61px 30px 78px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIHeader
+    h1 {
+    font-size: 32px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree {
+    padding: 61px 30px 69px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIButton
+    a {
+    padding: 22px 2rem;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIHeader
+    h1 {
+    font-size: 32px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour {
+    padding: 61px 30px 69px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIButton
+    a {
+    padding: 22px 2rem;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIHeader
+    h1 {
+    font-size: 32px;
+  }
+  #meetSintrabots .meetSintrabotsBottom {
+    padding-top: 41px;
+    padding-bottom: 103px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerSubHeader
+    h1 {
+    font-size: 24px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerHeader
+    h1 {
+    font-size: 48px;
+  }
+  #meetSintrabots .meetSintrabotsBottom .meetSintrabotsBottomBottom {
+    padding-left: 150px;
+    padding-right: 150px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomBottom
+    .meetSintrabotsBottomBottomInner
+    .meetSintrabotsBottomBottomInnerWrapper {
+    padding: 66px 40px 50px;
+  }
+
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomBottom
+    .meetSintrabotsBottomBottomInner
+    .meetSintrabotsBottomBottomInnerWrapper
+    .meetSintrabotsBottomBottomInnerWrapperInner
+    .meetSintrabotsBottomBottomInnerWrapperInnerImage {
+    display: block;
+    text-align: center;
+    margin-right: 0px;
+    margin-top: -37px;
+    margin-bottom: -24px;
+    margin-left: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomBottom
+    .meetSintrabotsBottomBottomInner
+    .meetSintrabotsBottomBottomInnerWrapper
+    .meetSintrabotsBottomBottomInnerWrapperInner
+    .meetSintrabotsBottomBottomInnerWrapperInnerBottomPara
+    h1 {
+    font-size: 19px;
+  }
 }
 
 @media only screen and (max-width: 991px) {
@@ -239,6 +517,337 @@
     .meetSintrabotsTopInnerReviewIWICInnerProfileContent {
     width: 75%;
     padding: 0;
+  }
+
+  #meetSintrabots .meetSintrabotsMiddle {
+    padding: 36px 20px 90px;
+  }
+  #meetSintrabots .meetSintrabotsMiddle .meetSintrabotsMiddleInnerTop {
+    padding: 68px 50px 44px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerTop
+    .meetSintrabotsMiddleInnerTopWrapper
+    .meetSintrabotsMiddleInnerTopPara
+    p {
+    letter-spacing: 0.4px;
+    padding: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne {
+    padding: 61px 5px 64px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIHeader {
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIHeader
+    h1 {
+    font-size: 32px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara
+    h1 {
+    font-size: 14px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo {
+    padding: 61px 10px 78px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIHeader
+    h1 {
+    line-height: 1em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIPara {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree {
+    padding: 61px 10px 78px;
+    margin-top: 0px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIHeader
+    h1 {
+    line-height: 1.1em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIPara {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour {
+    padding: 61px 10px 78px;
+    margin-top: 0px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIHeader
+    h1 {
+    line-height: 1em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIPara {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne {
+    padding: 61px 10px 78px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIHeader
+    h1 {
+    font-size: 32px;
+    line-height: 1.1em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara
+    h1 {
+    font-size: 14px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo {
+    padding: 61px 10px 78px;
+    margin-top: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIHeader
+    h1 {
+    line-height: 1.1em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIPara {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree {
+    padding: 61px 10px 78px;
+    margin-top: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIHeader
+    h1 {
+    line-height: 1em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIPara {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour {
+    padding: 61px 10px 78px;
+    margin-top: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIHeader
+    h1 {
+    line-height: 1.1em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIPara {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  #meetSintrabots .meetSintrabotsBottom {
+    padding-top: 77px;
+    padding-bottom: 47px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerSubHeader
+    h1 {
+    font-size: 22px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerHeader {
+    margin-left: 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerHeader
+    h1 {
+    font-size: 43px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerImage
+    img {
+    width: 80%;
+  }
+  #meetSintrabots .meetSintrabotsBottom .meetSintrabotsBottomBottom {
+    padding-top: 37px;
+    padding-right: 80px;
+    padding-left: 80px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomBottom
+    .meetSintrabotsBottomBottomInner
+    .meetSintrabotsBottomBottomInnerWrapper {
+    padding: 61px 30px 50px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomBottom
+    .meetSintrabotsBottomBottomInner
+    .meetSintrabotsBottomBottomInnerWrapper
+    .meetSintrabotsBottomBottomInnerWrapperInner
+    .meetSintrabotsBottomBottomInnerWrapperInnerImage {
+    margin: -50px -30px -24px;
   }
 }
 
@@ -473,5 +1082,984 @@
     .meetSintrabotsTopInnerReviewIWICInnerPara
     p {
     font-size: 15px;
+  }
+
+  #meetSintrabots .meetSintrabotsMiddle {
+    padding: 26px 10px 10px;
+  }
+  #meetSintrabots .meetSintrabotsMiddle .meetSintrabotsMiddleInnerTop {
+    padding: 60px 30px 34px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerTop
+    .meetSintrabotsMiddleInnerTopWrapper
+    .meetSintrabotsMiddleInnerTopHeader
+    h1 {
+    font-size: 33px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerTop
+    .meetSintrabotsMiddleInnerTopWrapper
+    .meetSintrabotsMiddleInnerTopPara
+    p {
+    font-size: 16px;
+    letter-spacing: -0.2px;
+  }
+  #meetSintrabots .meetSintrabotsMiddle .meetSintrabotsMiddleInnerMiddle {
+    display: block;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft {
+    width: 100%;
+  }
+
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight {
+    width: 100%;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne {
+    padding: 46px 10px 35px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIButton
+    a {
+    font-size: 13px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIButton {
+    margin: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIHeader
+    h1 {
+    font-size: 23px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara {
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 30px;
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara
+    h1 {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIItemOne
+    .meetSintrabotsMiddleInnerMLROneIItemOneLeft
+    .meetSintrabotsMiddleInnerMLROneIItemOneLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIItemOne
+    .meetSintrabotsMiddleInnerMLROneIItemOneRight
+    .meetSintrabotsMiddleInnerMLROneIItemOneRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIItems
+    .meetSintrabotsMiddleInnerMLROneIItemsLeft
+    .meetSintrabotsMiddleInnerMLROneIItemsLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowOne
+    .meetSintrabotsMiddleInnerMiddleLeftRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIItems
+    .meetSintrabotsMiddleInnerMLROneIItemsRight
+    .meetSintrabotsMiddleInnerMLROneIItemsRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo {
+    padding: 46px 10px 33px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIButton {
+    margin: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIButton
+    a {
+    font-size: 13px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIHeader {
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIHeader
+    h1 {
+    font-size: 23px;
+    line-height: 1.23em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIPara {
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 30px;
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIPara
+    h1 {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLROneIItemTwo
+    .meetSintrabotsMiddleInnerMLROneIItemTwoLeft
+    .meetSintrabotsMiddleInnerMLROneIItemTwoLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLROneIItemTwo
+    .meetSintrabotsMiddleInnerMLROneIItemTwoRight
+    .meetSintrabotsMiddleInnerMLROneIItemTwoRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIItems
+    .meetSintrabotsMiddleInnerMLRTwoIItemsLeft
+    .meetSintrabotsMiddleInnerMLRTwoIItemsLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwo
+    .meetSintrabotsMiddleInnerMiddleLeftRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIItems
+    .meetSintrabotsMiddleInnerMLRTwoIItemsRight
+    .meetSintrabotsMiddleInnerMLRTwoIItemsRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree {
+    padding: 46px 10px 33px;
+    margin-top: 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIButton {
+    margin: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIButton
+    a {
+    font-size: 13px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIHeader {
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIHeader
+    h1 {
+    font-size: 23px;
+    line-height: 1.23em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIPara {
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 30px;
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIPara
+    h1 {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIItemThree
+    .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeft
+    .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowThree
+    .meetSintrabotsMiddleInnerMiddleLeftRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIItemThree
+    .meetSintrabotsMiddleInnerMLRThreeIItemThreeRight
+    .meetSintrabotsMiddleInnerMLRThreeIItemThreeRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour {
+    padding: 46px 10px 30px;
+    margin-top: 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIButton {
+    margin: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIButton
+    a {
+    font-size: 13px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIHeader {
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIHeader
+    h1 {
+    font-size: 23px;
+    line-height: 1.23em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIPara {
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIPara
+    h1 {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIItemFour
+    .meetSintrabotsMiddleInnerMLRFourIItemFourLeft
+    .meetSintrabotsMiddleInnerMLRFourIItemFourLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleLeft
+    .meetSintrabotsMiddleInnerMiddleLeftRowFour
+    .meetSintrabotsMiddleInnerMiddleLeftRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIItemFour
+    .meetSintrabotsMiddleInnerMLRFourIItemFourRight
+    .meetSintrabotsMiddleInnerMLRFourIItemFourRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne {
+    padding: 46px 10px 48px;
+    margin-top: 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIButton {
+    margin: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIButton
+    a {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIHeader {
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIHeader
+    h1 {
+    font-size: 23px;
+    line-height: 1.23em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara {
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIPara
+    h1 {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIItemOne
+    .meetSintrabotsMiddleInnerMLROneIItemOneLeft
+    .meetSintrabotsMiddleInnerMLROneIItemOneLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIItemOne
+    .meetSintrabotsMiddleInnerMLROneIItemOneRight
+    .meetSintrabotsMiddleInnerMLROneIItemOneRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIItems
+    .meetSintrabotsMiddleInnerMLROneIItemsLeft
+    .meetSintrabotsMiddleInnerMLROneIItemsLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowOne
+    .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+    .meetSintrabotsMiddleInnerMLROneIItems
+    .meetSintrabotsMiddleInnerMLROneIItemsRight
+    .meetSintrabotsMiddleInnerMLROneIItemsRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo {
+    padding: 46px 10px 57px;
+    margin-top: 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIButton {
+    margin: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIButton
+    a {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIHeader
+    h1 {
+    font-size: 23px;
+    line-height: 1.23em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIHeader {
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIPara {
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIPara
+    h1 {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLROneIItemTwo
+    .meetSintrabotsMiddleInnerMLROneIItemTwoLeft
+    .meetSintrabotsMiddleInnerMLROneIItemTwoLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLROneIItemTwo
+    .meetSintrabotsMiddleInnerMLROneIItemTwoRight
+    .meetSintrabotsMiddleInnerMLROneIItemTwoRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIItems
+    .meetSintrabotsMiddleInnerMLRTwoIItemsLeft
+    .meetSintrabotsMiddleInnerMLRTwoIItemsLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowTwo
+    .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+    .meetSintrabotsMiddleInnerMLRTwoIItems
+    .meetSintrabotsMiddleInnerMLRTwoIItemsRight
+    .meetSintrabotsMiddleInnerMLRTwoIItemsRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree {
+    padding: 46px 10px 49px;
+    margin-top: 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIButton {
+    margin: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIButton
+    a {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIHeader
+    h1 {
+    font-size: 23px;
+    line-height: 1.23em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIHeader {
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIPara {
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIPara
+    h1 {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIItemThree
+    .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeft
+    .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIItemThree
+    .meetSintrabotsMiddleInnerMLRThreeIItemThreeRight
+    .meetSintrabotsMiddleInnerMLRThreeIItemThreeRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIItems
+    .meetSintrabotsMiddleInnerMLRThreeIItemsLeft
+    .meetSintrabotsMiddleInnerMLRThreeIItemsLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowThree
+    .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+    .meetSintrabotsMiddleInnerMLRThreeIItems
+    .meetSintrabotsMiddleInnerMLRThreeIItemsRight
+    .meetSintrabotsMiddleInnerMLRThreeIItemsRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour {
+    padding: 43px 10px 45px;
+    margin-top: 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIButton {
+    margin: 0;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIButton
+    a {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIHeader {
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIHeader
+    h1 {
+    font-size: 23px;
+    line-height: 1.23em;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIPara {
+    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: left;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIPara
+    h1 {
+    font-size: 12px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIItemFour
+    .meetSintrabotsMiddleInnerMLRFourIItemFourLeft
+    .meetSintrabotsMiddleInnerMLRFourIItemFourLeftInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddle
+    .meetSintrabotsMiddleInnerMiddle
+    .meetSintrabotsMiddleInnerMiddleRight
+    .meetSintrabotsMiddleInnerMiddleRightRowFour
+    .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+    .meetSintrabotsMiddleInnerMLRFourIItemFour
+    .meetSintrabotsMiddleInnerMLRFourIItemFourRight
+    .meetSintrabotsMiddleInnerMLRFourIItemFourRightInner
+    p {
+    font-size: 11px;
+  }
+  #meetSintrabots .meetSintrabotsMiddleInnerBottom {
+    padding: 40px 60px 86px;
+  }
+  #meetSintrabots
+    .meetSintrabotsMiddleInnerBottom
+    .meetSintrabotsMiddleInnerBottomInner
+    .meetSintrabotsMiddleInnerBottomInnerHeading
+    h1 {
+    font-size: 16px;
+    line-height: 1.2em;
+  }
+  #meetSintrabots .meetSintrabotsBottom {
+    padding: 44px 15px 43px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerSubHeader
+    h1 {
+    font-size: 17px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerHeader {
+    margin-left: 0px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerHeader
+    h1 {
+    font-size: 36px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerImage
+    img {
+    width: 100%;
+  }
+  #meetSintrabots .meetSintrabotsBottom .meetSintrabotsBottomBottom {
+    padding-top: 35px;
+    padding-right: 10px;
+    padding-left: 11px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomBottom
+    .meetSintrabotsBottomBottomInner
+    .meetSintrabotsBottomBottomInnerWrapper {
+    padding: 52px 14px 50px 20px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomBottom
+    .meetSintrabotsBottomBottomInner
+    .meetSintrabotsBottomBottomInnerWrapper
+    .meetSintrabotsBottomBottomInnerWrapperInner
+    .meetSintrabotsBottomBottomInnerWrapperInnerHeader
+    h1 {
+    font-size: 26px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomBottom
+    .meetSintrabotsBottomBottomInner
+    .meetSintrabotsBottomBottomInnerWrapper
+    .meetSintrabotsBottomBottomInnerWrapperInner
+    .meetSintrabotsBottomBottomInnerWrapperInnerImage {
+    margin: -30px -70px -24px -50px;
+  }
+  #meetSintrabots
+    .meetSintrabotsBottom
+    .meetSintrabotsBottomBottom
+    .meetSintrabotsBottomBottomInner
+    .meetSintrabotsBottomBottomInnerWrapper
+    .meetSintrabotsBottomBottomInnerWrapperInner
+    .meetSintrabotsBottomBottomInnerWrapperInnerBottomPara
+    h1 {
+    font-size: 16px;
+    line-height: 1.2em;
   }
 }

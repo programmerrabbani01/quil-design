@@ -3107,7 +3107,7 @@
   .meetSintrabotsMiddle
   .meetSintrabotsMiddleInnerTop
   .meetSintrabotsMiddleInnerTopWrapper {
-  padding: 0px 15ox;
+  padding: 0px 15px;
 }
 #meetSintrabots
   .meetSintrabotsMiddle
@@ -3180,6 +3180,7 @@
   max-width: 1200px;
   margin: 0px auto;
   padding: 36px 0 0;
+  display: flex;
 }
 #meetSintrabots
   .meetSintrabotsMiddle
@@ -3189,6 +3190,7 @@
   padding-right: 5px;
   width: 50%;
 }
+
 #meetSintrabots
   .meetSintrabotsMiddle
   .meetSintrabotsMiddleInnerMiddle
@@ -4215,7 +4217,7 @@
   .meetSintrabotsMiddleInnerMiddle
   .meetSintrabotsMiddleInnerMiddleLeft
   .meetSintrabotsMiddleInnerMiddleLeftRowFour {
-  background-color: #241509;
+  background-color: #200d0d;
   border-radius: 8px;
   background-position: center center;
   background-size: cover;
@@ -4468,6 +4470,1690 @@
   padding-left: 5px;
   padding-right: 5px;
   width: 50%;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne {
+  background-color: #000;
+  border-radius: 8px;
+  background-position: center center;
+  background-size: cover;
+  padding: 50px 45px 65px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner {
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIButton {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIButton
+  a {
+  font-size: 15px;
+  font-family: "Harmonia Sans", sans-serif;
+  text-transform: none;
+  font-weight: 700;
+  background-color: #c9c9c91a;
+  color: #fff;
+  border-radius: 8px;
+  letter-spacing: 0.1rem;
+  line-height: 18;
+  border: 0;
+  padding: 20px 1rem;
+  cursor: pointer;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  max-width: 12rem;
+  max-height: 3rem;
+  justify-content: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIHeader {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIHeader
+  h1 {
+  font-size: 26px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIPara {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIPara
+  h1 {
+  font-size: 14px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne {
+  border-radius: 8px;
+  background-color: #f7f7f71a;
+  padding-top: 4px;
+  max-width: 1200px;
+  margin-top: 25px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne
+  .meetSintrabotsMiddleInnerMLROneIItemOneLeft {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne
+  .meetSintrabotsMiddleInnerMLROneIItemOneLeft
+  .meetSintrabotsMiddleInnerMLROneIItemOneLeftInner {
+  margin-top: 10px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne
+  .meetSintrabotsMiddleInnerMLROneIItemOneLeft
+  .meetSintrabotsMiddleInnerMLROneIItemOneLeftInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne
+  .meetSintrabotsMiddleInnerMLROneIItemOneLeft
+  .meetSintrabotsMiddleInnerMLROneIItemOneLeftInner
+  p
+  span {
+  font-weight: 700;
+}
+
+/*  */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne
+  .meetSintrabotsMiddleInnerMLROneIItemOneRight {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne
+  .meetSintrabotsMiddleInnerMLROneIItemOneRight
+  .meetSintrabotsMiddleInnerMLROneIItemOneRightInner {
+  margin-top: 10px;
+  text-align: right;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne
+  .meetSintrabotsMiddleInnerMLROneIItemOneRight
+  .meetSintrabotsMiddleInnerMLROneIItemOneRightInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  background-color: none;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne
+  .meetSintrabotsMiddleInnerMLROneIItemOneRight
+  .meetSintrabotsMiddleInnerMLROneIItemOneRightInner
+  p
+  span {
+  font-weight: 700;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItems {
+  border-radius: 8px;
+  background-color: #f7f7f71a;
+  padding-top: 4px;
+  max-width: 1200px;
+  margin-top: 5px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+}
+/*  */
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItems
+  .meetSintrabotsMiddleInnerMLROneIItemsLeft {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItemOne
+  .meetSintrabotsMiddleInnerMLROneIItems
+  .meetSintrabotsMiddleInnerMLROneIItemsLeftInner {
+  margin-top: 10px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItems
+  .meetSintrabotsMiddleInnerMLROneIItemsLeft
+  .meetSintrabotsMiddleInnerMLROneIItemsLeftInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItems
+  .meetSintrabotsMiddleInnerMLROneIItemsLeft
+  .meetSintrabotsMiddleInnerMLROneIItemsLeftInner
+  p
+  span {
+  font-weight: 700;
+}
+
+/*  */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItems
+  .meetSintrabotsMiddleInnerMLROneIItemsRight {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItems
+  .meetSintrabotsMiddleInnerMLROneIItemsRight
+  .meetSintrabotsMiddleInnerMLROneIItemsRightInner {
+  margin-top: 10px;
+  text-align: right;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItems
+  .meetSintrabotsMiddleInnerMLROneIItemsRight
+  .meetSintrabotsMiddleInnerMLROneIItemsRightInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  background-color: none;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowOne
+  .meetSintrabotsMiddleInnerMiddleRightRowOneInner
+  .meetSintrabotsMiddleInnerMLROneIItems
+  .meetSintrabotsMiddleInnerMLROneIItemsRight
+  .meetSintrabotsMiddleInnerMLROneIItemsRightInner
+  p
+  span {
+  font-weight: 700;
+}
+
+/* ******************************************* */
+
+/* row two */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo {
+  background-color: #072435;
+  border-radius: 8px;
+  background-position: center center;
+  background-size: cover;
+  padding: 50px 45px;
+  margin-top: 20px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner {
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIButton {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIButton
+  a {
+  font-size: 15px;
+  font-family: "Harmonia Sans", sans-serif;
+  text-transform: none;
+  font-weight: 700;
+  background-color: #2ac3ed1a;
+  color: #fff;
+  border-radius: 8px;
+  letter-spacing: 0.1rem;
+  line-height: 18;
+  border: 0;
+  padding: 20px 1rem;
+  cursor: pointer;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  max-width: 12rem;
+  max-height: 3rem;
+  justify-content: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIHeader {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIHeader
+  h1 {
+  font-size: 26px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIPara {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIPara
+  h1 {
+  font-size: 14px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo {
+  border-radius: 8px;
+  background-color: #2ac3ed1a;
+  padding-top: 4px;
+  margin-top: 25px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLROneIItemTwoLeft {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLROneIItemTwoLeft
+  .meetSintrabotsMiddleInnerMLROneIItemTwoLeftInner {
+  margin-top: 10px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLROneIItemTwoLeft
+  .meetSintrabotsMiddleInnerMLROneIItemTwoLeftInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLROneIItemTwoLeft
+  .meetSintrabotsMiddleInnerMLROneIItemTwoLeftInner
+  p
+  span {
+  font-weight: 700;
+}
+
+/*  */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLROneIItemTwoRight {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLROneIItemTwoRight
+  .meetSintrabotsMiddleInnerMLROneIItemTwoRightInner {
+  margin-top: 10px;
+  text-align: right;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLROneIItemTwoRight
+  .meetSintrabotsMiddleInnerMLROneIItemTwoRightInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #2ac3ed;
+  text-transform: none;
+  font-weight: 400;
+  background-color: none;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLROneIItemTwoRight
+  .meetSintrabotsMiddleInnerMLROneIItemTwoRightInner
+  p
+  span {
+  font-weight: 700;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIItems {
+  border-radius: 8px;
+  background-color: #2ac3ed1a;
+  padding-top: 4px;
+  max-width: 1200px;
+  margin-top: 5px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+}
+/*  */
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIItems
+  .meetSintrabotsMiddleInnerMLRTwoIItemsLeft {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLRTwoIItems
+  .meetSintrabotsMiddleInnerMLRTwoIItemsLeftInner {
+  margin-top: 10px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIItems
+  .meetSintrabotsMiddleInnerMLRTwoIItemsLeft
+  .meetSintrabotsMiddleInnerMLRTwoIItemsLeftInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIItems
+  .meetSintrabotsMiddleInnerMLRTwoIItemsLeft
+  .meetSintrabotsMiddleInnerMLRTwoIItemsLeftInner
+  p
+  span {
+  font-weight: 700;
+}
+
+/*  */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIItems
+  .meetSintrabotsMiddleInnerMLRTwoIItemsRight {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIItems
+  .meetSintrabotsMiddleInnerMLRTwoIItemsRight
+  .meetSintrabotsMiddleInnerMLRTwoIItemsRightInner {
+  margin-top: 10px;
+  text-align: right;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIItems
+  .meetSintrabotsMiddleInnerMLRTwoIItemsRight
+  .meetSintrabotsMiddleInnerMLRTwoIItemsRightInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #2ac3ed;
+  text-transform: none;
+  font-weight: 400;
+  background-color: none;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowTwo
+  .meetSintrabotsMiddleInnerMiddleRightRowTwoInner
+  .meetSintrabotsMiddleInnerMLRTwoIItems
+  .meetSintrabotsMiddleInnerMLRTwoIItemsRight
+  .meetSintrabotsMiddleInnerMLRTwoIItemsRightInner
+  p
+  span {
+  font-weight: 700;
+}
+/* **************************** */
+
+/* row three */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree {
+  background-color: #180929;
+  border-radius: 8px;
+  background-position: center center;
+  background-size: cover;
+  padding: 50px 45px 65px;
+  margin-top: 20px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner {
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIButton {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIButton
+  a {
+  font-size: 15px;
+  font-family: "Harmonia Sans", sans-serif;
+  text-transform: none;
+  font-weight: 700;
+  background-color: #c968d81a;
+  color: #fff;
+  border-radius: 8px;
+  letter-spacing: 0.1rem;
+  line-height: 18px;
+  border: 0;
+  padding: 22px 1.5rem;
+  cursor: pointer;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  max-width: 12rem;
+  max-height: 3rem;
+  justify-content: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIHeader {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIHeader
+  h1 {
+  font-size: 26px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIPara {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIPara
+  h1 {
+  font-size: 14px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItemThree {
+  border-radius: 8px;
+  background-color: #c968d81a;
+  padding-top: 4px;
+  margin-top: 25px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItemThree
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeft {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRoThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItemThree
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeft
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeftInner {
+  margin-top: 10px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItemThree
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeft
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeftInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItemThree
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeft
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeLeftInner
+  p
+  span {
+  font-weight: 700;
+}
+
+/*  */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItemThree
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeRight {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItemThree
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeRight
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeRightInner {
+  margin-top: 10px;
+  text-align: right;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItemThree
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeRight
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeRightInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #c968d8;
+  text-transform: none;
+  font-weight: 400;
+  background-color: none;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItemThree
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeRight
+  .meetSintrabotsMiddleInnerMLRThreeIItemThreeRightInner
+  p
+  span {
+  font-weight: 700;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItems {
+  border-radius: 8px;
+  background-color: #c968d81a;
+  padding-top: 4px;
+  max-width: 1200px;
+  margin-top: 5px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+}
+/*  */
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItems
+  .meetSintrabotsMiddleInnerMLRThreeIItemsLeft {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLROneIItemTwo
+  .meetSintrabotsMiddleInnerMLRThreeIItems
+  .meetSintrabotsMiddleInnerMLRThreeIItemsLeftInner {
+  margin-top: 10px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItems
+  .meetSintrabotsMiddleInnerMLRThreeIItemsLeft
+  .meetSintrabotsMiddleInnerMLRThreeIItemsLeftInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItems
+  .meetSintrabotsMiddleInnerMLRThreeIItemsLeft
+  .meetSintrabotsMiddleInnerMLRThreeIItemsLeftInner
+  p
+  span {
+  font-weight: 700;
+}
+
+/*  */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItems
+  .meetSintrabotsMiddleInnerMLRThreeIItemsRight {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItems
+  .meetSintrabotsMiddleInnerMLRThreeIItemsRight
+  .meetSintrabotsMiddleInnerMLRThreeIItemsRightInner {
+  margin-top: 10px;
+  text-align: right;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItems
+  .meetSintrabotsMiddleInnerMLRThreeIItemsRight
+  .meetSintrabotsMiddleInnerMLRThreeIItemsRightInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #c968d8;
+  text-transform: none;
+  font-weight: 400;
+  background-color: none;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowThree
+  .meetSintrabotsMiddleInnerMiddleRightRowThreeInner
+  .meetSintrabotsMiddleInnerMLRThreeIItems
+  .meetSintrabotsMiddleInnerMLRThreeIItemsRight
+  .meetSintrabotsMiddleInnerMLRThreeIItemsRightInner
+  p
+  span {
+  font-weight: 700;
+}
+
+/* row Four */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour {
+  background-color: #181306;
+  border-radius: 8px;
+  background-position: center center;
+  background-size: cover;
+  padding: 50px 45px 65px;
+  margin-top: 20px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner {
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIButton {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIButton
+  a {
+  font-size: 15px;
+  font-family: "Harmonia Sans", sans-serif;
+  text-transform: none;
+  font-weight: 700;
+  background-color: #f5d4501a;
+  color: #fff;
+  border-radius: 8px;
+  letter-spacing: 0.1rem;
+  line-height: 18;
+  border: 0;
+  padding: 22px 1.5rem;
+  cursor: pointer;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  max-width: 12rem;
+  max-height: 3rem;
+  justify-content: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIHeader {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIHeader
+  h1 {
+  font-size: 26px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIPara {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIPara
+  h1 {
+  font-size: 14px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIItemFour {
+  border-radius: 8px;
+  background-color: #f5d4501a;
+  padding-top: 4px;
+  margin-top: 25px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: baseline;
+  flex-direction: row;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIItemFour
+  .meetSintrabotsMiddleInnerMLRFourIItemFourLeft {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRoFourInner
+  .meetSintrabotsMiddleInnerMLRFourIItemFour
+  .meetSintrabotsMiddleInnerMLRFourIItemFourLeft
+  .meetSintrabotsMiddleInnerMLRFourIItemFourLeftInner {
+  margin-top: 10px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIItemFour
+  .meetSintrabotsMiddleInnerMLRFourIItemFourLeft
+  .meetSintrabotsMiddleInnerMLRFourIItemFourLeftInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIItemFour
+  .meetSintrabotsMiddleInnerMLRFourIItemFourLeft
+  .meetSintrabotsMiddleInnerMLRFourIItemFourLeftInner
+  p
+  span {
+  font-weight: 700;
+}
+
+/*  */
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIItemFour
+  .meetSintrabotsMiddleInnerMLRFourIItemFourRight {
+  width: 50%;
+  padding: 0px 15px;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIItemFour
+  .meetSintrabotsMiddleInnerMLRFourIItemFourRight
+  .meetSintrabotsMiddleInnerMLRFourIItemFourRightInner {
+  margin-top: 10px;
+  text-align: right;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIItemFour
+  .meetSintrabotsMiddleInnerMLRFourIItemFourRight
+  .meetSintrabotsMiddleInnerMLRFourIItemFourRightInner
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: -0.1px;
+  color: #c6842b;
+  text-transform: none;
+  font-weight: 400;
+  background-color: none;
+  margin: 0;
+  padding: 0;
+}
+#meetSintrabots
+  .meetSintrabotsMiddle
+  .meetSintrabotsMiddleInnerMiddle
+  .meetSintrabotsMiddleInnerMiddleRight
+  .meetSintrabotsMiddleInnerMiddleRightRowFour
+  .meetSintrabotsMiddleInnerMiddleRightRowFourInner
+  .meetSintrabotsMiddleInnerMLRFourIItemFour
+  .meetSintrabotsMiddleInnerMLRFourIItemFourRight
+  .meetSintrabotsMiddleInnerMLRFourIItemFourRightInner
+  p
+  span {
+  font-weight: 700;
+}
+
+#meetSintrabots .meetSintrabotsMiddleInnerBottom {
+  padding-top: 30px;
+  padding-right: 60px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddleInnerBottom
+  .meetSintrabotsMiddleInnerBottomInner {
+  padding: 0px 15px;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddleInnerBottom
+  .meetSintrabotsMiddleInnerBottomInner
+  .meetSintrabotsMiddleInnerBottomInnerHeading {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsMiddleInnerBottom
+  .meetSintrabotsMiddleInnerBottomInner
+  .meetSintrabotsMiddleInnerBottomInnerHeading
+  h1 {
+  font-size: 19px;
+  font-family: "Harmonia Sans", sans-serif;
+  font-weight: 400;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #fff;
+  text-transform: none;
+  margin: 0;
+  padding: 0;
+}
+
+#meetSintrabots .meetSintrabotsBottom {
+  background-color: #09094d;
+  padding-top: 64px;
+  padding-bottom: 63px;
+  background: linear-gradient(180deg, #162878, #000);
+}
+
+#meetSintrabots .meetSintrabotsBottom .meetSintrabotsBottomTop {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomTop
+  .meetSintrabotsBottomTopInner {
+  padding: 0px 15px;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomTop
+  .meetSintrabotsBottomTopInner
+  .meetSintrabotsBottomTopInnerSubHeader {
+  margin-top: 50px;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomTop
+  .meetSintrabotsBottomTopInner
+  .meetSintrabotsBottomTopInnerSubHeader
+  h1 {
+  font-size: 20px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.1em;
+  letter-spacing: -0.4px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomTop
+  .meetSintrabotsBottomTopInner
+  .meetSintrabotsBottomTopInnerHeader {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomTop
+  .meetSintrabotsBottomTopInner
+  .meetSintrabotsBottomTopInnerHeader
+  h1 {
+  font-size: 43px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 0.9em;
+  letter-spacing: -0.5px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 800;
+  margin: 0;
+  padding: 0;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomTop
+  .meetSintrabotsBottomTopInner
+  .meetSintrabotsBottomTopInnerImage {
+  margin-top: 40px;
+  margin-left: -30px;
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomTop
+  .meetSintrabotsBottomTopInner
+  .meetSintrabotsBottomTopInnerImage
+  img {
+  width: 60%;
+  height: auto;
+  max-width: 100%;
+}
+
+#meetSintrabots .meetSintrabotsBottom .meetSintrabotsBottomBottom {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 44px;
+  padding-bottom: 10px;
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner {
+  padding: 0px 15px;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner
+  .meetSintrabotsBottomBottomInnerWrapper {
+  background-color: #a68b011a;
+  border-radius: 15px;
+  padding: 66px 80px 50px;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner
+  .meetSintrabotsBottomBottomInnerWrapper
+  .meetSintrabotsBottomBottomInnerWrapperInner {
+  padding: 0px 15px;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner
+  .meetSintrabotsBottomBottomInnerWrapper
+  .meetSintrabotsBottomBottomInnerWrapperInner
+  .meetSintrabotsBottomBottomInnerWrapperInnerHeader
+  h1 {
+  font-size: 33px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.1em;
+  letter-spacing: -0.7px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner
+  .meetSintrabotsBottomBottomInnerWrapper
+  .meetSintrabotsBottomBottomInnerWrapperInner
+  .meetSintrabotsBottomBottomInnerWrapperInnerHeader
+  h1
+  span {
+  font-weight: bold;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner
+  .meetSintrabotsBottomBottomInnerWrapper
+  .meetSintrabotsBottomBottomInnerWrapperInner
+  .meetSintrabotsBottomBottomInnerWrapperInnerHeader
+  h1
+  span
+  > span {
+  text-decoration: underline;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner
+  .meetSintrabotsBottomBottomInnerWrapper
+  .meetSintrabotsBottomBottomInnerWrapperInner
+  .meetSintrabotsBottomBottomInnerWrapperInnerImage {
+  margin: -65px -94px -24px -70px;
+  display: block;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner
+  .meetSintrabotsBottomBottomInnerWrapper
+  .meetSintrabotsBottomBottomInnerWrapperInner
+  .meetSintrabotsBottomBottomInnerWrapperInnerImage
+  img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner
+  .meetSintrabotsBottomBottomInnerWrapper
+  .meetSintrabotsBottomBottomInnerWrapperInner
+  .meetSintrabotsBottomBottomInnerWrapperInnerBottomPara {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+}
+
+#meetSintrabots
+  .meetSintrabotsBottom
+  .meetSintrabotsBottomBottom
+  .meetSintrabotsBottomBottomInner
+  .meetSintrabotsBottomBottomInnerWrapper
+  .meetSintrabotsBottomBottomInnerWrapperInner
+  .meetSintrabotsBottomBottomInnerWrapperInnerBottomPara
+  h1 {
+      font-size: 15px;
+      font-family: "Harmonia Sans", sans-serif;
+      line-height: 1.23em;
+      letter-spacing: -.1px;
+      color: #898989;
+      text-transform: none;
+      font-weight: 400;
+      margin: 0;
+      padding: 0;
+  
 }
 
 /* meetSintrabots end */
