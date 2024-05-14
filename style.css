@@ -11,6 +11,7 @@
   padding-bottom: 0;
   margin-top: 0;
   background: linear-gradient(180deg, #6717cd, #000);
+  overflow: hidden;
 }
 #topBanner .tBiCImage {
   /* width: 100%; */
@@ -151,6 +152,9 @@
 
 /* botsChatGPT start */
 
+#botsChatGPT {
+  overflow: hidden;
+}
 #botsChatGPT .botsCloud {
   padding-top: 122px;
   padding-bottom: 49px;
@@ -641,6 +645,7 @@
   padding-top: 83px;
   padding-bottom: 41px;
   background-color: #0f0f0f;
+  overflow: hidden;
 }
 
 #dollarProblem .dollarProblemTop {
@@ -1229,6 +1234,7 @@
   padding-top: 39px;
   padding-bottom: 73px;
   background: linear-gradient(83deg, #134c4e, #000);
+  overflow: hidden;
 }
 
 #sintraBots .sintraBotsInner {
@@ -1652,6 +1658,7 @@
 #sintraMax {
   background-color: #111;
   padding: 87px 190px 0 191px;
+  overflow: hidden;
 }
 
 #sintraMax .sintraMaxInner {
@@ -6144,16 +6151,15 @@
   .meetSintrabotsBottomBottomInnerWrapperInner
   .meetSintrabotsBottomBottomInnerWrapperInnerBottomPara
   h1 {
-      font-size: 15px;
-      font-family: "Harmonia Sans", sans-serif;
-      line-height: 1.23em;
-      letter-spacing: -.1px;
-      color: #898989;
-      text-transform: none;
-      font-weight: 400;
-      margin: 0;
-      padding: 0;
-  
+  font-size: 15px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.23em;
+  letter-spacing: -0.1px;
+  color: #898989;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
 }
 
 /* meetSintrabots end */
