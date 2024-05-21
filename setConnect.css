@@ -3,6 +3,7 @@
   padding-top: 30px;
   padding-bottom: 84px;
   background: linear-gradient(0deg, #6717cd, #000);
+  overflow: hidden;
 }
 #setConnect .setConnectInner {
   padding: 101px 264px 0 222px;
@@ -86,4 +87,85 @@
   width: auto;
   height: auto;
   max-width: 100%;
+}
+
+/* responsive */
+
+@media only screen and (max-width: 1199px) {
+  #setConnect .setConnectInner {
+    padding: 91px 160px 0;
+  }
+  #setConnect
+    .setConnectInner
+    .setConnectInnerWrapper
+    .setConnectInnerWrapperHeading
+    h1 {
+    font-size: 53px;
+    line-height: 1em;
+  }
+  #setConnect
+    .setConnectInner
+    .setConnectInnerWrapper
+    .setConnectInnerWrapperImage {
+    margin: 50px 16px 26px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  #setConnect {
+    padding-bottom: 67px;
+  }
+  #setConnect .setConnectInner {
+    padding: 72px 80px 0;
+  }
+  #setConnect
+    .setConnectInner
+    .setConnectInnerWrapper
+    .setConnectInnerWrapperHeading
+    h1 {
+    font-size: 47px;
+    line-height: 1.1em;
+  }
+  #setConnect
+    .setConnectInner
+    .setConnectInnerWrapper
+    .setConnectInnerWrapperImage {
+    margin: 50px -7px 26px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #setConnect {
+    padding-bottom: 45px;
+  }
+  #setConnect .setConnectInner {
+    padding: 45px 20px 0;
+  }
+  #setConnect
+    .setConnectInner
+    .setConnectInnerWrapper
+    .setConnectInnerWrapperHeading
+    h1 {
+    font-size: 28px;
+    line-height: 1.1em;
+  }
+  #setConnect
+    .setConnectInner
+    .setConnectInnerWrapper
+    .setConnectInnerWrapperPara
+    h1 {
+    font-size: 19px;
+    font-family: "Harmonia Sans", sans-serif;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+    color: #fff;
+    text-transform: none;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+  }
+  #setConnect
+    .setConnectInner
+    .setConnectInnerWrapper
+    .setConnectInnerWrapperImage {
+    margin: 30px -40px 26px -20px;
+  }
 }
