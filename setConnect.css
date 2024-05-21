@@ -1,0 +1,89 @@
+#setConnect {
+  background-color: #000;
+  padding-top: 30px;
+  padding-bottom: 84px;
+  background: linear-gradient(0deg, #6717cd, #000);
+}
+#setConnect .setConnectInner {
+  padding: 101px 264px 0 222px;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#setConnect .setConnectInner .setConnectInnerWrapper {
+  padding: 0 15px;
+}
+#setConnect
+  .setConnectInner
+  .setConnectInnerWrapper
+  .setConnectInnerWrapperHeading {
+  margin-top: 10px;
+}
+
+#setConnect
+  .setConnectInner
+  .setConnectInnerWrapper
+  .setConnectInnerWrapperHeading
+  h1 {
+  margin: 0px;
+  padding: 0px;
+  font-size: 54px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.1em;
+  letter-spacing: -0.4px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 800;
+}
+#setConnect
+  .setConnectInner
+  .setConnectInnerWrapper
+  .setConnectInnerWrapperHeading
+  h1
+  span {
+  color: rgb(154, 132, 235);
+}
+#setConnect
+  .setConnectInner
+  .setConnectInnerWrapper
+  .setConnectInnerWrapperPara {
+  margin-top: 20px;
+}
+#setConnect
+  .setConnectInner
+  .setConnectInnerWrapper
+  .setConnectInnerWrapperPara
+  h1 {
+  font-size: 24px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.1em;
+  letter-spacing: -0.4px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#setConnect
+  .setConnectInner
+  .setConnectInnerWrapper
+  .setConnectInnerWrapperPara
+  h1
+  span {
+  color: rgb(122, 122, 122);
+}
+#setConnect
+  .setConnectInner
+  .setConnectInnerWrapper
+  .setConnectInnerWrapperImage {
+  margin: 50px -45px 26px;
+}
+#setConnect
+  .setConnectInner
+  .setConnectInnerWrapper
+  .setConnectInnerWrapperImage
+  img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
