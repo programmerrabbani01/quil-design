@@ -2,6 +2,7 @@
   background-color: #f9f9f9;
   padding-bottom: 0;
   padding-top: 75px;
+  overflow: hidden;
 }
 #magic .magicHeader {
   padding-top: 61px;
@@ -119,6 +120,7 @@
   .magicItemOneRightContentBottom {
   padding: 14px 0px 10px 0px;
   display: flex;
+  align-items: center;
 }
 #magic
   .magicItems
@@ -228,4 +230,218 @@
   width: 100%;
   height: auto;
   max-width: 100%;
+}
+
+/* responsive */
+
+@media only screen and (max-width: 1199px) {
+  #magic {
+    padding: 75px 50px 0;
+  }
+  #magic .magicHeader {
+    padding-top: 131px;
+  }
+  #magic .magicItems .magicItemOne {
+    padding-top: 43px;
+    padding-right: 47px;
+  }
+  #magic .magicItems .magicItemOne .magicItemOneLeftImage {
+    width: 58.33333%;
+  }
+  #magic .magicItems .magicItemOne .magicItemOneRightContent {
+    width: 41.66667%;
+  }
+  #magic
+    .magicItems
+    .magicItemOne
+    .magicItemOneRightContent
+    .magicItemOneRightContentHeading {
+    margin-bottom: 30px;
+  }
+  #magic
+    .magicItems
+    .magicItemOne
+    .magicItemOneRightContent
+    .magicItemOneRightContentHeading
+    h1 {
+    font-size: 21px;
+  }
+  #magic .magicItems .magicItemTwo {
+    padding-top: 68px;
+    padding-right: 28px;
+  }
+
+  #magic
+    .magicItems
+    .magicItemTwo
+    .magicItemTwoLeftContent
+    .magicItemTwoLeftContentHeading {
+    margin-bottom: 70px;
+  }
+  #magic
+    .magicItems
+    .magicItemTwo
+    .magicItemTwoLeftContent
+    .magicItemTwoLeftContentHeading
+    h1 {
+    font-size: 21px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #magic {
+    padding: 25px 50px 0;
+  }
+  #magic .magicHeader {
+    padding-top: 91px;
+  }
+  #magic .magicHeader .magicHeaderInner h1 {
+    font-size: 45px;
+  }
+  #magic .magicHeader .magicHeaderInner h2 {
+    font-size: 45px;
+  }
+  #magic .magicItems .magicItemOne {
+    padding-top: 32px;
+    padding-right: 5px;
+  }
+  #magic .magicItems .magicItemOne .magicItemOneLeftImage {
+    width: 50%;
+  }
+  #magic .magicItems .magicItemOne .magicItemOneRightContent {
+    width: 50%;
+  }
+  #magic
+    .magicItems
+    .magicItemOne
+    .magicItemOneRightContent
+    .magicItemOneRightContentHeading {
+    margin-bottom: 20px;
+  }
+  #magic
+    .magicItems
+    .magicItemOne
+    .magicItemOneRightContent
+    .magicItemOneRightContentBottom
+    .magicItemOneRightContentBottomText
+    p {
+    font-size: 14px;
+    line-height: 1.2em;
+  }
+  #magic .magicItems .magicItemTwo {
+    padding-top: 77px;
+  }
+  #magic .magicItems .magicItemTwo .magicItemTwoLeftContent {
+    width: 50%;
+  }
+  #magic
+    .magicItems
+    .magicItemTwo
+    .magicItemTwoLeftContent
+    .magicItemTwoLeftContentHeading {
+    margin-bottom: 50px;
+  }
+  #magic .magicItems .magicItemTwo .magicItemTwoRightImage {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #magic {
+    padding: 60px 20px 0;
+  }
+  #magic .magicHeader {
+    padding-top: 73px;
+  }
+  #magic .magicHeader .magicHeaderInner h1 {
+    font-size: 29px;
+    line-height: 0.9em;
+  }
+  #magic .magicHeader .magicHeaderInner h2 {
+    font-size: 29px;
+    line-height: 0.9em;
+  }
+  #magic .magicItems .magicItemOne {
+    padding-top: 16px;
+    padding-right: 3px;
+    display: block;
+  }
+  #magic .magicItems .magicItemOne .magicItemOneLeftImage {
+    width: 100%;
+  }
+  #magic
+    .magicItems
+    .magicItemOne
+    .magicItemOneLeftImage
+    .magicItemOneLeftImageInner {
+    margin-left: 50px;
+    margin-right: -110px;
+  }
+  #magic .magicItems .magicItemOne .magicItemOneRightContent {
+    width: 100%;
+  }
+  #magic
+    .magicItems
+    .magicItemOne
+    .magicItemOneRightContent
+    .magicItemOneRightContentHeading {
+    margin-top: 35px;
+    margin-bottom: 50px;
+  }
+  #magic
+    .magicItems
+    .magicItemOne
+    .magicItemOneRightContent
+    .magicItemOneRightContentHeading
+    h1 {
+    font-size: 19px;
+  }
+  #magic
+    .magicItems
+    .magicItemOne
+    .magicItemOneRightContent
+    .magicItemOneRightContentBottom {
+    padding: 0px 0px 10px 0px;
+  }
+  
+  #magic
+    .magicItems
+    .magicItemOne
+    .magicItemOneRightContent
+    .magicItemOneRightContentBottom
+    .magicItemOneRightContentBottomText
+    p {
+    font-size: 16px;
+    line-height: 1.8em;
+  }
+  #magic .magicItems .magicItemTwo {
+    padding-top: 81px;
+    padding-right: 1px;
+    display: block;
+  }
+  #magic .magicItems .magicItemTwo .magicItemTwoLeftContent {
+    width: 100%;
+}#magic
+.magicItems
+.magicItemTwo
+.magicItemTwoLeftContent
+.magicItemTwoLeftContentHeading {
+margin-bottom: 35px;
+}#magic
+.magicItems
+.magicItemTwo
+.magicItemTwoLeftContent
+.magicItemTwoLeftContentHeading
+h1 {
+font-size: 20px;
+}#magic .magicItems .magicItemTwo .magicItemTwoRightImage {
+  width: 100%;
+}
+#magic .magicItems .magicItemTwo .magicItemTwoRightImage .magicItemTwoRightImageInner {
+  margin-left: -90px !important;
+  margin-right: 91px !important;
+}
+
+
+
 }

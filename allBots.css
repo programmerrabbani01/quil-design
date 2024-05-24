@@ -2,6 +2,7 @@
   padding-top: 80px;
   padding-bottom: 10px;
   background-color: #fff;
+  overflow: hidden;
 }
 #allBots .allBotsFirst .allBotsFirstTop {
   padding-top: 55px;
@@ -252,6 +253,7 @@
   background-repeat: repeat-x;
   background-attachment: scroll;
   border-radius: 60px;
+  margin: auto;
 }
 
 #allBots .allBotsSecond .allBotsSecondInner {
@@ -283,4 +285,289 @@
   font-weight: 400;
   margin: 0;
   padding: 0;
+  text-align: center;
+}
+
+/* responsive */
+@media only screen and (max-width: 1199px) {
+  #allBots {
+    padding-top: 75px;
+  }
+  #allBots .allBotsFirst .allBotsFirstTop {
+    padding-top: 55px;
+    padding-bottom: 71px;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstTop
+    .allBotsFirstTopInner
+    .allBotsFirstTopInnerImage {
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 0px;
+  }
+  #allBots .allBotsFirst .allBotsFirstMiddle {
+    padding-top: 43px;
+    padding-right: 150px;
+    padding-bottom: 10px;
+    padding-left: 150px;
+  }
+  #allBots .allBotsFirst .allBotsFirstMiddle .allBotsFirstMiddleInner h1 {
+    font-size: 41px;
+    line-height: 1.1em;
+    letter-spacing: -0.2px;
+  }
+  #allBots .allBotsFirst .allBotsFirstBottom {
+    padding: 56px 20px 64px 0;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstBottom
+    .allBotsFirstBottomContent
+    .allBotsFirstBottomContentInner
+    .allBotsFirstBottomContentInnerWrapper
+    .allBotsFirstBottomContentInnerWrapperHeading
+    h1 {
+    font-size: 31px;
+    line-height: 1.1em;
+    letter-spacing: -0.9px;
+  }
+  #allBots .allBotsSecond {
+    padding: 55px 90px 105px;
+  }
+  #allBots .allBotsSecond .allBotsSecondWrapper {
+    padding: 254px 40px 186px 35px !important;
+    max-width: 100% !important;
+    background-image: url("https://i.ibb.co/f08RTjt/hmmmmmm.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    border-radius: 60px;
+  }
+  #allBots .allBotsSecond .allBotsSecondInner .allBotsSecondInnerHeading h1 {
+    font-size: 39px;
+    line-height: 1.1em;
+    letter-spacing: -0.5px;
+  }
+  #allBots .allBotsSecond .allBotsSecondInner .allBotsSecondInnerPara {
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  #allBots .allBotsSecond .allBotsSecondInner .allBotsSecondInnerPara h1 {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 991px) {
+  #allBots {
+    padding-top: 43px;
+  }
+  #allBots .allBotsFirst .allBotsFirstMiddle {
+    padding: 50px 90px 30px;
+  }
+  #allBots .allBotsFirst .allBotsFirstMiddle .allBotsFirstMiddleInner h1 {
+    font-size: 37px;
+    line-height: 1.1em;
+    letter-spacing: -0.2px;
+  }
+  #allBots .allBotsFirst .allBotsFirstBottom {
+    padding: 21px 40px 56px;
+    display: block;
+  }
+  #allBots .allBotsFirst .allBotsFirstBottom .allBotsFirstBottomImage {
+    width: 100%;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstBottom
+    .allBotsFirstBottomImage
+    .allBotsFirstBottomImageInner {
+    margin-left: 20px;
+    margin-right: -66px;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstBottom
+    .allBotsFirstBottomImage
+    .allBotsFirstBottomImageInner
+    img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }
+  #allBots .allBotsFirst .allBotsFirstBottom .allBotsFirstBottomContent {
+    width: 100%;
+  }
+
+  #allBots
+    .allBotsFirst
+    .allBotsFirstBottom
+    .allBotsFirstBottomContent
+    .allBotsFirstBottomContentInner
+    .allBotsFirstBottomContentInnerWrapper
+    .allBotsFirstBottomContentInnerWrapperHeading
+    h1 {
+    font-size: 34px;
+    line-height: 1em;
+    letter-spacing: -0.9px;
+  }
+  #allBots .allBotsSecond {
+    padding: 54px 40px 62px;
+  }
+  #allBots .allBotsSecond .allBotsSecondWrapper {
+    padding: 235px 40px 184px !important;
+    max-width: 100% !important;
+    background-image: url("https://i.ibb.co/f08RTjt/hmmmmmm.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    border-radius: 60px;
+  }
+  #allBots .allBotsSecond .allBotsSecondInner .allBotsSecondInnerHeading h1 {
+    font-size: 46px;
+    line-height: 1.1em;
+    letter-spacing: -0.5px;
+    margin-top: 10px;
+  }
+  #allBots .allBotsSecond .allBotsSecondInner .allBotsSecondInnerPara {
+    margin-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  #allBots .allBotsSecond .allBotsSecondInner .allBotsSecondInnerPara h1 {
+    font-size: 23px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  #allBots {
+    padding-top: 58px;
+  }
+  #allBots .allBotsFirst .allBotsFirstTop {
+    padding-top: 55px;
+    padding-bottom: 60px;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstTop
+    .allBotsFirstTopInner
+    .allBotsFirstTopInnerHeading
+    h1 {
+    font-size: 32px;
+    line-height: 0.9em;
+    letter-spacing: -0.3px;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstTop
+    .allBotsFirstTopInner
+    .allBotsFirstTopInnerImage {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: -76px;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstTop
+    .allBotsFirstTopInner
+    .allBotsFirstTopInnerBottomHeading {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 40px;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstTop
+    .allBotsFirstTopInner
+    .allBotsFirstTopInnerBottomHeading
+    h1 {
+    font-size: 20px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #allBots .allBotsFirst .allBotsFirstMiddle {
+    padding: 79px 20px 10px 20px;
+  }
+  #allBots .allBotsFirst .allBotsFirstMiddle .allBotsFirstMiddleInner h1 {
+    font-size: 27px;
+    line-height: 1em;
+    letter-spacing: -0.2px;
+  }
+  #allBots .allBotsFirst .allBotsFirstBottom {
+    padding: 35px 40px 32px;
+    display: block;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstBottom
+    .allBotsFirstBottomImage
+    .allBotsFirstBottomImageInner {
+    margin-left: -72px;
+    margin-right: 75px;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstBottom
+    .allBotsFirstBottomContent
+    .allBotsFirstBottomContentInner {
+    padding-top: 47px;
+    padding-bottom: 21px;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstBottom
+    .allBotsFirstBottomContent
+    .allBotsFirstBottomContentInner
+    .allBotsFirstBottomContentInnerWrapper
+    .allBotsFirstBottomContentInnerWrapperHeading
+    h1 {
+    font-size: 25px;
+    line-height: 1em;
+    letter-spacing: -0.9px;
+  }
+  #allBots
+    .allBotsFirst
+    .allBotsFirstBottom
+    .allBotsFirstBottomContent
+    .allBotsFirstBottomContentInner
+    .allBotsFirstBottomContentInnerWrapper
+    .allBotsFirstBottomContentInnerWrapperPara
+    h1 {
+    font-size: 20px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #allBots .allBotsSecond {
+    padding: 23px 15px 18px;
+    background-color: #fff;
+  }
+  #allBots .allBotsSecond .allBotsSecondWrapper {
+    padding: 137px 25px 110px 18px !important;
+    max-width: 100% !important;
+    background-image: url("https://i.ibb.co/f08RTjt/hmmmmmm.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    border-radius: 60px;
+  }
+  #allBots .allBotsSecond .allBotsSecondInner .allBotsSecondInnerHeading h1 {
+    font-size: 29px;
+    line-height: 1.1em;
+    letter-spacing: -0.5px;
+    margin-top: 10px;
+  }
+  #allBots .allBotsSecond .allBotsSecondInner .allBotsSecondInnerPara {
+    margin-top: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  #allBots .allBotsSecond .allBotsSecondInner .allBotsSecondInnerPara h1 {
+    font-size: 16px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
 }
