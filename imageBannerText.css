@@ -1,0 +1,706 @@
+#bannerTop {
+  padding-top: 4px;
+  padding-bottom: 0;
+  margin-top: -25px;
+  background: linear-gradient(180deg, #6717cd, #000 40%);
+  overflow: hidden;
+}
+#bannerTop .bannerTopInner {
+  padding-top: 3px;
+  padding-bottom: 0;
+}
+#bannerTop .bannerTopInner .bannerTopInnerImage {
+  margin-top: -20px;
+  margin-bottom: -50px;
+}
+#bannerTop .bannerTopInner .bannerTopInnerImage .bannerTopInnerImageWrapper {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+#bannerTop
+  .bannerTopInner
+  .bannerTopInnerImage
+  .bannerTopInnerImageWrapper
+  img {
+  width: 50%;
+  height: auto;
+  max-width: 100%;
+}
+
+/* banner Text */
+
+#bannerText {
+  background-color: #000;
+  padding-top: 14px;
+  padding-bottom: 10px;
+}
+
+#bannerText .bannerTextInner {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 290px 32px;
+  margin-top: -95px;
+  width: 100%;
+}
+
+#bannerText .bannerTextInner .bannerTextInnerWrapper {
+  padding: 0px 15px;
+}
+
+#bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextHeading {
+  margin-top: 40px;
+}
+
+#bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextHeading h1 {
+  font-size: 45px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.1em;
+  letter-spacing: -0.4px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 800;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+#bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextHeading h2 {
+  font-size: 45px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.1em;
+  letter-spacing: -0.4px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 800;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#bannerText
+  .bannerTextInner
+  .bannerTextInnerWrapper
+  .bannerTextHeading
+  h1
+  span {
+  color: rgb(247, 68, 175);
+}
+#bannerText
+  .bannerTextInner
+  .bannerTextInnerWrapper
+  .bannerTextHeading
+  h2
+  span {
+  text-decoration-line: underline;
+}
+#bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextPara {
+  margin-top: 20px;
+  text-align: center;
+}
+#bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextPara p {
+  font-size: 22px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.1em;
+  letter-spacing: -0.3px;
+  color: #ffffffbf;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextPara p span {
+  font-weight: bold;
+}
+#bannerText
+  .bannerTextInner
+  .bannerTextInnerWrapper
+  .bannerTextPara
+  p
+  span
+  > span {
+  color: rgb(242, 237, 237);
+}
+#bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextButton {
+  margin-top: 25px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#bannerText
+  .bannerTextInner
+  .bannerTextInnerWrapper
+  .bannerTextButton
+  .bannerTextButtonInner {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+#bannerText
+  .bannerTextInner
+  .bannerTextInnerWrapper
+  .bannerTextButton
+  .bannerTextButtonInner
+  a {
+  font-size: 15px;
+  font-family: "Harmonia Sans", sans-serif;
+  letter-spacing: 0.1rem;
+  line-height: 18px;
+  text-transform: none;
+  font-weight: 700;
+  background-color: #ffffff1a;
+  color: #fff;
+  height: 60px;
+  border-style: solid;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-color: #ffffff4d;
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+  justify-content: center;
+  padding: 0 3rem;
+  cursor: pointer;
+  text-decoration: none;
+  min-width: 12rem;
+  min-height: 4.5rem;
+  border-radius: 11px;
+}
+#bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextParaTwo {
+  margin-top: 15px;
+  text-align: center;
+}
+#bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextParaTwo p {
+  font-size: 16px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.8em;
+  letter-spacing: 0.4px;
+  color: #ffffff80;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+/* valuable Asset */
+
+#valuableAsset {
+  padding-top: 111px;
+  padding-bottom: 82px;
+  background: linear-gradient(0deg, #162878, #000);
+  overflow: hidden;
+}
+
+#valuableAsset .valuableAssetInner {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  padding-right: 280px;
+  padding-bottom: 0;
+  padding-left: 280px;
+}
+
+#valuableAsset .valuableAssetInner .valuableAssetInnerWrapper {
+  padding: 0px 15px;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetSubHeader {
+  margin-top: 20px;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetSubHeader
+  h1 {
+  font-size: 24px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.1em;
+  letter-spacing: -0.4px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetSubHeader
+  h1
+  span {
+  font-weight: 700;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetHeader {
+  margin-top: 30px;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetHeader
+  h1 {
+  font-size: 70px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 0.9em;
+  letter-spacing: -0.5px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 800;
+  margin: 0;
+  padding: 0;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetHeader
+  h1
+  span {
+  color: rgb(209, 209, 209);
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetFirstImage {
+  padding-top: 67px;
+  padding-bottom: 0;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetFirstImage
+  .valuableAssetFirstImageInner {
+  padding: 0px 15px;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetFirstImage
+  .valuableAssetFirstImageInner
+  .valuableAssetFirstImageInnerWrapper {
+  margin-right: -97px;
+  margin-left: -153px;
+  margin-top: -80px;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetFirstImage
+  .valuableAssetFirstImageInner
+  .valuableAssetFirstImageInnerWrapper
+  img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetPara {
+  margin-top: 50px;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetPara
+  h1 {
+  font-size: 31px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.1em;
+  letter-spacing: -0.4px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetPara
+  h1
+  span:nth-child(1) {
+  font-weight: 700;
+  color: rgb(173, 173, 173);
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetPara
+  h1
+  span:nth-child(2) {
+  font-weight: 700;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetPara
+  h1
+  span:nth-child(3) {
+  font-weight: 700;
+  color: rgb(173, 173, 173);
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetSecondImage {
+  margin: -52px -94px -24px -70px;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetSecondImage
+  .valuableAssetSecondImageWrapper {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+
+#valuableAsset
+  .valuableAssetInner
+  .valuableAssetInnerWrapper
+  .valuableAssetSecondImage
+  .valuableAssetSecondImageWrapper
+  img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+/* responsive */
+
+@media only screen and (max-width: 1199px) {
+  #bannerTop {
+    padding-top: 22px;
+    padding-bottom: 0;
+    margin-top: -25px;
+  }
+  #bannerTop .bannerTopInner {
+    padding-top: 0px;
+    padding-bottom: 0;
+  }
+  #bannerTop .bannerTopInner .bannerTopInnerImage {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  #bannerTop
+    .bannerTopInner
+    .bannerTopInnerImage
+    .bannerTopInnerImageWrapper
+    img {
+    width: 80%;
+    height: auto;
+    max-width: 100%;
+  }
+  #bannerText {
+    background-color: #000;
+    padding-top: 0px;
+    padding-bottom: 10px;
+  }
+  #bannerText .bannerTextInner {
+    padding: 0 80px 55px;
+    margin-top: 0px;
+    width: 100%;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextHeading h1 {
+    font-size: 58px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextHeading h2 {
+    font-size: 58px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextPara p {
+    font-size: 22px;
+    line-height: 1.1em;
+    letter-spacing: 0.4px;
+    padding: 0 80px;
+  }
+  #bannerText
+    .bannerTextInner
+    .bannerTextInnerWrapper
+    .bannerTextButton
+    .bannerTextButtonInner
+    a {
+    width: 300px;
+  }
+  #valuableAsset {
+    padding-top: 147px;
+    padding-bottom: 107px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetHeader {
+    margin-top: 10px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetHeader
+    h1 {
+    font-size: 48px;
+    line-height: 0.9em;
+    letter-spacing: -0.5px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetFirstImage {
+    padding-top: 67px;
+    padding-bottom: 53px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetFirstImage
+    .valuableAssetFirstImageInner
+    .valuableAssetFirstImageInnerWrapper {
+    margin-right: -40px;
+    margin-left: -40px;
+    margin-top: -142px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetPara
+    h1 {
+    font-size: 24px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+    text-align: center;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetSecondImage {
+    margin-top: -74px;
+    margin-right: -94px;
+    margin-bottom: -24px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #bannerTop {
+    padding-top: 0px;
+    padding-bottom: 0;
+    margin-top: -25px;
+  }
+  #bannerTop .bannerTopInner {
+    padding-top: 45px;
+    padding-bottom: 0;
+  }
+  #bannerText .bannerTextInner {
+    padding: 11px 40px 68px;
+    margin-top: 0px;
+    width: 100%;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextHeading h1 {
+    font-size: 52px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextHeading h2 {
+    font-size: 52px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextPara p {
+    font-size: 24px;
+    line-height: 1.1em;
+    letter-spacing: 0.4px;
+    padding: 0;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetSubHeader
+    h1 {
+    font-size: 22px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetHeader {
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetHeader
+    h1 {
+    font-size: 43px;
+    line-height: 0.9em;
+    letter-spacing: -0.5px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetPara
+    h1 {
+    font-size: 22px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #bannerTop .bannerTopInner {
+    padding-top: 87px;
+    padding-bottom: 0;
+  }
+  #bannerTop .bannerTopInner .bannerTopInnerImage {
+    margin: -140px -130px 0;
+  }
+  #bannerTop
+    .bannerTopInner
+    .bannerTopInnerImage
+    .bannerTopInnerImageWrapper
+    img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }
+  #bannerText .bannerTextInner {
+    padding: 0 30px 78px;
+    margin-top: -134px;
+    width: 100%;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextHeading h1 {
+    font-size: 26px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextHeading h2 {
+    font-size: 26px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextPara p {
+    font-size: 17px;
+    line-height: 1.1em;
+    letter-spacing: -0.2px;
+    padding: 0;
+  }
+  #bannerText .bannerTextInner .bannerTextInnerWrapper .bannerTextButton {
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  #bannerText
+    .bannerTextInner
+    .bannerTextInnerWrapper
+    .bannerTextButton
+    .bannerTextButtonInner
+    a {
+    font-size: 14px;
+    width: 100%;
+  }
+  #valuableAsset {
+    padding-top: 30px;
+    padding-bottom: 35px;
+  }
+  #valuableAsset .valuableAssetInner {
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 0;
+    padding-left: 20px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetSubHeader {
+    margin-top: 20px;
+    padding-right: 60px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetSubHeader
+    h1 {
+    font-size: 24px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetHeader {
+    margin-top: 30px;
+    margin-left: 0px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetHeader
+    h1 {
+    font-size: 40px;
+    line-height: 0.9em;
+    letter-spacing: -0.5px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetFirstImage {
+    padding-top: 62px;
+    padding-bottom: 0px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetFirstImage
+    .valuableAssetFirstImageInner
+    .valuableAssetFirstImageInnerWrapper {
+    margin-right: -171px;
+    margin-left: -30px;
+    margin-top: -80px;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetPara
+    h1 {
+    font-size: 21px;
+    line-height: 1.1em;
+    letter-spacing: -0.4px;
+    text-align: center;
+  }
+  #valuableAsset
+    .valuableAssetInner
+    .valuableAssetInnerWrapper
+    .valuableAssetSecondImage {
+    margin: -30px -70px -24px -50px;
+  }
+
+
+  
+}

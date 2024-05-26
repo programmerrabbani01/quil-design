@@ -76,17 +76,18 @@
     padding: 0;
   }
 
-  #meetSintrabots .meetSintrabotsMiddle {
+  /* middle start */
+
+  #meetSintrabotsMiddle {
     background-color: #0f0f0f;
     padding: 36px 30px 90px;
   }
 
-  #meetSintrabots .meetSintrabotsMiddle .meetSintrabotsMiddleInnerTop {
+  #meetSintrabotsMiddle .meetSintrabotsMiddleInnerTop {
     padding: 68px 180px 44px;
   }
 
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerTop
     .meetSintrabotsMiddleInnerTopWrapper
     .meetSintrabotsMiddleInnerTopPara
@@ -95,16 +96,15 @@
     letter-spacing: 0px;
     padding: 0 20px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne {
     padding: 61px 20px 78px 15px;
   }
 
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -114,8 +114,7 @@
     padding: 20px 1.2rem;
   }
 
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -125,8 +124,7 @@
     font-size: 28px;
   }
 
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -137,15 +135,14 @@
     padding: 0;
   }
 
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo {
     padding: 61px 30px 78px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -154,15 +151,15 @@
     h1 {
     font-size: 32px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree {
     padding: 61px 30px 78px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -172,15 +169,14 @@
     font-size: 32px;
   }
 
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour {
     padding: 61px 30px 78px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -189,15 +185,15 @@
     h1 {
     font-size: 32px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne {
     padding: 61px 20px 78px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -206,8 +202,8 @@
     a {
     padding: 20px 1.2rem;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -216,8 +212,8 @@
     h1 {
     font-size: 28px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -226,15 +222,15 @@
     h1 {
     font-size: 13px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo {
     padding: 61px 30px 78px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -243,15 +239,15 @@
     h1 {
     font-size: 32px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree {
     padding: 61px 30px 69px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -260,8 +256,8 @@
     a {
     padding: 22px 2rem;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -270,15 +266,15 @@
     h1 {
     font-size: 32px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour {
     padding: 61px 30px 69px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -287,8 +283,8 @@
     a {
     padding: 22px 2rem;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -297,40 +293,51 @@
     h1 {
     font-size: 32px;
   }
-  #meetSintrabots .meetSintrabotsBottom {
-    padding-top: 41px;
-    padding-bottom: 103px;
+
+  /* meetSintrabotsBottom */
+  #meetSintrabotsBottom {
+    padding-top: 174px;
+    padding-bottom: 182px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerSubHeader
     h1 {
     font-size: 24px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerHeader
     h1 {
     font-size: 48px;
   }
-  #meetSintrabots .meetSintrabotsBottom .meetSintrabotsBottomBottom {
+
+  #meetSintrabotsBottom
+    .meetSintrabotsBottomTop
+    .meetSintrabotsBottomTopInner
+    .meetSintrabotsBottomTopInnerImage
+    img {
+    width: 50%;
+    height: auto;
+    max-width: 100%;
+  }
+
+  /* meetSintrabotsBottom */
+
+  #meetSintrabotsBottom .meetSintrabotsBottomBottom {
     padding-left: 150px;
     padding-right: 150px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomBottom
     .meetSintrabotsBottomBottomInner
     .meetSintrabotsBottomBottomInnerWrapper {
     padding: 66px 40px 50px;
   }
 
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomBottom
     .meetSintrabotsBottomBottomInner
     .meetSintrabotsBottomBottomInnerWrapper
@@ -343,8 +350,7 @@
     margin-bottom: -24px;
     margin-left: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomBottom
     .meetSintrabotsBottomBottomInner
     .meetSintrabotsBottomBottomInnerWrapper
@@ -519,14 +525,13 @@
     padding: 0;
   }
 
-  #meetSintrabots .meetSintrabotsMiddle {
+  #meetSintrabotsMiddle {
     padding: 36px 20px 90px;
   }
-  #meetSintrabots .meetSintrabotsMiddle .meetSintrabotsMiddleInnerTop {
+  #meetSintrabotsMiddle .meetSintrabotsMiddleInnerTop {
     padding: 68px 50px 44px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerTop
     .meetSintrabotsMiddleInnerTopWrapper
     .meetSintrabotsMiddleInnerTopPara
@@ -534,15 +539,13 @@
     letter-spacing: 0.4px;
     padding: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne {
     padding: 61px 5px 64px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -550,8 +553,7 @@
     .meetSintrabotsMiddleInnerMLROneIHeader {
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -560,8 +562,7 @@
     h1 {
     font-size: 32px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -571,8 +572,7 @@
     margin-left: 10px;
     margin-right: 10px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -581,15 +581,13 @@
     h1 {
     font-size: 14px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo {
     padding: 61px 10px 78px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -598,8 +596,7 @@
     h1 {
     line-height: 1em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -609,16 +606,14 @@
     margin-left: 10px;
     margin-right: 10px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree {
     padding: 61px 10px 78px;
     margin-top: 0px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -627,8 +622,7 @@
     h1 {
     line-height: 1.1em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -638,16 +632,14 @@
     margin-left: 10px;
     margin-right: 10px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour {
     padding: 61px 10px 78px;
     margin-top: 0px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -656,8 +648,7 @@
     h1 {
     line-height: 1em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -667,15 +658,13 @@
     margin-left: 10px;
     margin-right: 10px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne {
     padding: 61px 10px 78px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -685,8 +674,7 @@
     font-size: 32px;
     line-height: 1.1em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -696,8 +684,7 @@
     margin-left: 10px;
     margin-right: 10px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -706,16 +693,14 @@
     h1 {
     font-size: 14px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo {
     padding: 61px 10px 78px;
     margin-top: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -724,8 +709,7 @@
     h1 {
     line-height: 1.1em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -735,16 +719,14 @@
     margin-left: 10px;
     margin-right: 10px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree {
     padding: 61px 10px 78px;
     margin-top: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -753,8 +735,7 @@
     h1 {
     line-height: 1em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -764,16 +745,14 @@
     margin-left: 10px;
     margin-right: 10px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour {
     padding: 61px 10px 78px;
     margin-top: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -782,8 +761,7 @@
     h1 {
     line-height: 1.1em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -793,55 +771,55 @@
     margin-left: 10px;
     margin-right: 10px;
   }
-  #meetSintrabots .meetSintrabotsBottom {
-    padding-top: 77px;
-    padding-bottom: 47px;
-  }
-  #meetSintrabots
-    .meetSintrabotsBottom
+
+  /* meetSintrabotsBottom */
+  #meetSintrabotsBottom {
+    padding-top: 174px;
+    padding-bottom: 182px;
+}
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerSubHeader
     h1 {
     font-size: 22px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerHeader {
     margin-left: 20px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerHeader
     h1 {
     font-size: 43px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerImage
     img {
-    width: 80%;
-  }
-  #meetSintrabots .meetSintrabotsBottom .meetSintrabotsBottomBottom {
+    width: 50%;
+}
+
+  /* meetSintrabotsBottom */
+
+
+  #meetSintrabotsBottom .meetSintrabotsBottomBottom {
     padding-top: 37px;
     padding-right: 80px;
     padding-left: 80px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomBottom
     .meetSintrabotsBottomBottomInner
     .meetSintrabotsBottomBottomInnerWrapper {
     padding: 61px 30px 50px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomBottom
     .meetSintrabotsBottomBottomInner
     .meetSintrabotsBottomBottomInnerWrapper
@@ -1084,22 +1062,20 @@
     font-size: 15px;
   }
 
-  #meetSintrabots .meetSintrabotsMiddle {
+  #meetSintrabotsMiddle {
     padding: 26px 10px 10px;
   }
-  #meetSintrabots .meetSintrabotsMiddle .meetSintrabotsMiddleInnerTop {
+  #meetSintrabotsMiddle .meetSintrabotsMiddleInnerTop {
     padding: 60px 30px 34px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerTop
     .meetSintrabotsMiddleInnerTopWrapper
     .meetSintrabotsMiddleInnerTopHeader
     h1 {
     font-size: 33px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerTop
     .meetSintrabotsMiddleInnerTopWrapper
     .meetSintrabotsMiddleInnerTopPara
@@ -1107,31 +1083,27 @@
     font-size: 16px;
     letter-spacing: -0.2px;
   }
-  #meetSintrabots .meetSintrabotsMiddle .meetSintrabotsMiddleInnerMiddle {
+  #meetSintrabotsMiddle .meetSintrabotsMiddleInnerMiddle {
     display: block;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft {
     width: 100%;
   }
 
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight {
     width: 100%;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne {
     padding: 46px 10px 35px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -1140,8 +1112,7 @@
     a {
     font-size: 13px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -1149,8 +1120,7 @@
     .meetSintrabotsMiddleInnerMLROneIButton {
     margin: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -1159,8 +1129,7 @@
     h1 {
     font-size: 23px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -1171,8 +1140,7 @@
     margin-right: 30px;
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -1181,8 +1149,7 @@
     h1 {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -1193,8 +1160,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -1205,8 +1171,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -1217,8 +1182,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowOne
@@ -1229,15 +1193,13 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo {
     padding: 46px 10px 33px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1245,8 +1207,7 @@
     .meetSintrabotsMiddleInnerMLRTwoIButton {
     margin: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1255,8 +1216,7 @@
     a {
     font-size: 13px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1264,8 +1224,7 @@
     .meetSintrabotsMiddleInnerMLRTwoIHeader {
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1275,8 +1234,7 @@
     font-size: 23px;
     line-height: 1.23em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1287,8 +1245,7 @@
     margin-right: 30px;
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1297,8 +1254,7 @@
     h1 {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1309,8 +1265,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1321,8 +1276,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1333,8 +1287,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowTwo
@@ -1345,16 +1298,14 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree {
     padding: 46px 10px 33px;
     margin-top: 20px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -1362,8 +1313,7 @@
     .meetSintrabotsMiddleInnerMLRThreeIButton {
     margin: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -1372,8 +1322,7 @@
     a {
     font-size: 13px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -1381,8 +1330,7 @@
     .meetSintrabotsMiddleInnerMLRThreeIHeader {
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -1392,8 +1340,7 @@
     font-size: 23px;
     line-height: 1.23em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -1404,8 +1351,7 @@
     margin-right: 30px;
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -1414,8 +1360,7 @@
     h1 {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -1426,8 +1371,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowThree
@@ -1438,16 +1382,14 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour {
     padding: 46px 10px 30px;
     margin-top: 20px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -1455,8 +1397,7 @@
     .meetSintrabotsMiddleInnerMLRFourIButton {
     margin: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -1465,8 +1406,7 @@
     a {
     font-size: 13px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -1474,8 +1414,7 @@
     .meetSintrabotsMiddleInnerMLRFourIHeader {
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -1485,8 +1424,7 @@
     font-size: 23px;
     line-height: 1.23em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -1497,8 +1435,7 @@
     margin-right: 0px;
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -1507,8 +1444,7 @@
     h1 {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -1519,8 +1455,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleLeft
     .meetSintrabotsMiddleInnerMiddleLeftRowFour
@@ -1531,16 +1466,14 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne {
     padding: 46px 10px 48px;
     margin-top: 20px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1548,8 +1481,7 @@
     .meetSintrabotsMiddleInnerMLROneIButton {
     margin: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1558,8 +1490,7 @@
     a {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1567,8 +1498,7 @@
     .meetSintrabotsMiddleInnerMLROneIHeader {
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1578,8 +1508,7 @@
     font-size: 23px;
     line-height: 1.23em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1590,8 +1519,7 @@
     margin-right: 0px;
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1600,8 +1528,7 @@
     h1 {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1612,8 +1539,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1624,8 +1550,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1636,8 +1561,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowOne
@@ -1648,16 +1572,14 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo {
     padding: 46px 10px 57px;
     margin-top: 20px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1665,8 +1587,7 @@
     .meetSintrabotsMiddleInnerMLRTwoIButton {
     margin: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1675,8 +1596,7 @@
     a {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1686,8 +1606,7 @@
     font-size: 23px;
     line-height: 1.23em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1695,8 +1614,7 @@
     .meetSintrabotsMiddleInnerMLRTwoIHeader {
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1707,8 +1625,7 @@
     margin-right: 0px;
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1717,8 +1634,7 @@
     h1 {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1729,8 +1645,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1741,8 +1656,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1753,8 +1667,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowTwo
@@ -1765,16 +1678,14 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree {
     padding: 46px 10px 49px;
     margin-top: 20px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1782,8 +1693,7 @@
     .meetSintrabotsMiddleInnerMLRThreeIButton {
     margin: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1792,8 +1702,7 @@
     a {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1803,8 +1712,7 @@
     font-size: 23px;
     line-height: 1.23em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1812,8 +1720,7 @@
     .meetSintrabotsMiddleInnerMLRThreeIHeader {
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1824,8 +1731,7 @@
     margin-right: 0px;
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1834,8 +1740,7 @@
     h1 {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1846,8 +1751,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1858,8 +1762,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1870,8 +1773,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowThree
@@ -1882,16 +1784,14 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour {
     padding: 43px 10px 45px;
     margin-top: 20px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -1899,8 +1799,7 @@
     .meetSintrabotsMiddleInnerMLRFourIButton {
     margin: 0;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -1909,8 +1808,7 @@
     a {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -1918,8 +1816,7 @@
     .meetSintrabotsMiddleInnerMLRFourIHeader {
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -1929,8 +1826,7 @@
     font-size: 23px;
     line-height: 1.23em;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -1941,8 +1837,7 @@
     margin-right: 0px;
     text-align: left;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -1951,8 +1846,7 @@
     h1 {
     font-size: 12px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -1963,8 +1857,7 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsMiddle
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerMiddle
     .meetSintrabotsMiddleInnerMiddleRight
     .meetSintrabotsMiddleInnerMiddleRightRowFour
@@ -1975,10 +1868,10 @@
     p {
     font-size: 11px;
   }
-  #meetSintrabots .meetSintrabotsMiddleInnerBottom {
+  #meetSintrabotsMiddle .meetSintrabotsMiddleInnerBottom {
     padding: 40px 60px 86px;
   }
-  #meetSintrabots
+  #meetSintrabotsMiddle
     .meetSintrabotsMiddleInnerBottom
     .meetSintrabotsMiddleInnerBottomInner
     .meetSintrabotsMiddleInnerBottomInnerHeading
@@ -1986,54 +1879,53 @@
     font-size: 16px;
     line-height: 1.2em;
   }
-  #meetSintrabots .meetSintrabotsBottom {
+
+  /* meetSintrabotsBottom */
+
+  #meetSintrabotsBottom {
     padding: 44px 15px 43px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerSubHeader
     h1 {
     font-size: 17px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerHeader {
     margin-left: 0px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerHeader
     h1 {
     font-size: 36px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomTop
     .meetSintrabotsBottomTopInner
     .meetSintrabotsBottomTopInnerImage
     img {
     width: 100%;
   }
-  #meetSintrabots .meetSintrabotsBottom .meetSintrabotsBottomBottom {
+
+   /* meetSintrabotsBottom */
+  #meetSintrabotsBottom .meetSintrabotsBottomBottom {
     padding-top: 35px;
     padding-right: 10px;
     padding-left: 11px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomBottom
     .meetSintrabotsBottomBottomInner
     .meetSintrabotsBottomBottomInnerWrapper {
     padding: 52px 14px 50px 20px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomBottom
     .meetSintrabotsBottomBottomInner
     .meetSintrabotsBottomBottomInnerWrapper
@@ -2042,8 +1934,7 @@
     h1 {
     font-size: 26px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomBottom
     .meetSintrabotsBottomBottomInner
     .meetSintrabotsBottomBottomInnerWrapper
@@ -2051,8 +1942,7 @@
     .meetSintrabotsBottomBottomInnerWrapperInnerImage {
     margin: -30px -70px -24px -50px;
   }
-  #meetSintrabots
-    .meetSintrabotsBottom
+  #meetSintrabotsBottom
     .meetSintrabotsBottomBottom
     .meetSintrabotsBottomBottomInner
     .meetSintrabotsBottomBottomInnerWrapper
