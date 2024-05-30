@@ -30,6 +30,230 @@
   text-align: center;
 }
 
+/* reviews */
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews {
+  background-color: #faf4e4a6;
+  padding: 29px 40px 51px;
+  border-radius: 15px;
+  margin-top: 30px;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner {
+  padding: 0px 15px;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper {
+  padding-top: 12px;
+  padding-bottom: 4px;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner {
+  padding: 0px 15px;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .icon
+  svg {
+  margin-left: -7px;
+  width: 21px;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .username
+  p {
+  font-size: 14px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.6em;
+  letter-spacing: 0.1px;
+  color: #383838bf;
+  text-transform: none;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+}
+
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .username
+  .use {
+  font-weight: 700;
+  text-decoration: underline;
+  font-style: normal;
+}
+
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .username
+  .dot {
+  letter-spacing: 0.63px;
+}
+
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .username
+  .date {
+  letter-spacing: 0.63px;
+}
+
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .dsc {
+  margin-top: 25px;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .dsc
+  p {
+  font-size: 18px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.5em;
+  letter-spacing: 0.2px;
+  color: #0e0e0ebf;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .person {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding-top: 28px;
+  padding-bottom: 0px;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .person
+  .pic {
+  width: 16.66667%;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .person
+  .pic
+  img {
+  width: 70%;
+  height: auto;
+  max-width: 100%;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .person
+  .per_text {
+  width: 83.33333%;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .person
+  .per_text
+  h1 {
+  font-size: 18px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.2em;
+  letter-spacing: 0.1px;
+  color: #0e0e0e;
+  text-transform: none;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .per_text
+  p {
+  font-size: 16px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.5em;
+  letter-spacing: 0.2px;
+  color: #0e0e0ebf;
+  text-transform: none;
+  font-weight: 400;
+  padding-bottom: 0;
+  margin-top: 5px;
+}
+
 /* responsive */
 
 @media only screen and (max-width: 1199px) {
@@ -45,6 +269,43 @@
     line-height: 1.1em;
     letter-spacing: -0.6px;
   }
+  /* reviews */
+
+  #accessMembers
+    .accessMembersInner
+    .accessMembersInnerWrapper
+    .accessMembersReviews
+    .accessMembersReviewsInner
+    .accessMembersReviewsInnerWrapper
+    .accessMembersReviewsInnerWrapperInner
+    .dsc
+    p {
+    font-size: 17px;
+    line-height: 1.5em;
+    letter-spacing: 0.2px;
+  }
+  #accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .person
+  .pic {
+    width: 25%;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .person
+  .per_text {
+    width: 75%;
+}
 }
 
 @media only screen and (max-width: 991px) {
@@ -74,4 +335,38 @@
     line-height: 1.1em;
     letter-spacing: -0.6px;
   }
+
+  /* reviews */
+  #accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews {
+    padding: 29px 10px 51px;
+}
+#accessMembers
+    .accessMembersInner
+    .accessMembersInnerWrapper
+    .accessMembersReviews
+    .accessMembersReviewsInner
+    .accessMembersReviewsInnerWrapper
+    .accessMembersReviewsInnerWrapperInner
+    .dsc
+    p {
+    font-size: 15px;
+    line-height: 1.5em;
+    letter-spacing: 0.2px;
+}
+#accessMembers
+  .accessMembersInner
+  .accessMembersInnerWrapper
+  .accessMembersReviews
+  .accessMembersReviewsInner
+  .accessMembersReviewsInnerWrapper
+  .accessMembersReviewsInnerWrapperInner
+  .per_text
+  p {
+    font-size: 15px;
+    line-height: 1.5em;
+    letter-spacing: 0.2px;
+}
 }

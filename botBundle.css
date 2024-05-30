@@ -1,0 +1,723 @@
+#botBundle {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  background: linear-gradient(0deg, #6717cd, #2871fa);
+  overflow: hidden;
+}
+
+#botBundle .botBundleInner {
+  padding: 0 180px 15px;
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#botBundle .botBundleInner .botBundleInnerWrapper {
+  padding: 0px 15px;
+}
+
+#botBundle .botBundleInner .botBundleInnerWrapper .botBundleInnerWrapperInner {
+  padding-top: 30px;
+  padding-right: 10px;
+  padding-bottom: 28px;
+  padding-left: 10px;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleHeader {
+  margin: 40px 120px 50px;
+  text-align: center;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleHeader
+  h1 {
+  font-size: 23px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.2em;
+  letter-spacing: 0.1px;
+  color: #fff;
+  text-transform: none;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 67px 150px 46px;
+  margin-top: 0;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner {
+  padding: 0px 15px;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerImage {
+  margin-top: -133px;
+  margin-right: -50px;
+  margin-left: -50px;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerImage
+  .botBundleProductBoxInnerImageInner {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerImage
+  .botBundleProductBoxInnerImageInner
+  img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerHeader {
+  margin-left: 15px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerHeader
+  h1 {
+  font-size: 28px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 0.9em;
+  letter-spacing: -0.2px;
+  color: #000;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerPara {
+  margin-top: 15px;
+  text-align: center;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerPara
+  p {
+  font-size: 16.8px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: 0px;
+  color: #0e0e0ebf;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerButton {
+  margin-top: 15px;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerButton
+  button {
+  width: 100%;
+  color: #fff;
+  font-size: 16px;
+  font-family: "Harmonia Sans", sans-serif;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.1rem;
+  display: inline-block;
+  max-width: 100%;
+  background: linear-gradient(100deg, #6717cd, #2871fa);
+  cursor: pointer;
+  border: none;
+  border-radius: 11px;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerSaveOver {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerSaveOver
+  p {
+  font-size: 15px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.5em;
+  letter-spacing: 0.2px;
+  color: #0e0e0ebf;
+  text-transform: none;
+  font-weight: 400;
+  margin-top: 0px;
+  padding: 0;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerSaveOver
+  p
+  span {
+  font-weight: bold;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerSaveOver
+  p
+  span
+  > span {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerReviews {
+  background-color: #f9f9f9;
+  margin-top: 20px;
+  padding: 15px 24px 15px 20px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerReviews
+  .botBundleProductBoxInnerReviewsStar {
+  padding: 0px 8px;
+  width: 25%;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerReviews
+  .botBundleProductBoxInnerReviewsStar
+  img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerReviews
+  .botBundleProductBoxInnerReviewsText {
+  padding: 0px 8px;
+  width: 50%;
+}
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerReviews
+  .botBundleProductBoxInnerReviewsText
+  p {
+  font-size: 14px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: 0.63px;
+  color: #4f4f4fbf;
+  text-transform: none;
+  font-weight: 400;
+  margin-top: 5px;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerReviews
+  .botBundleProductBoxInnerReviewsImage {
+  padding: 0px 8px;
+  width: 25%;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleProductBox
+  .botBundleProductBoxInner
+  .botBundleProductBoxInnerReviews
+  .botBundleProductBoxInnerReviewsImage
+  img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleBottomPara {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleBottomPara
+  p {
+  font-size: 12px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.4em;
+  letter-spacing: 0.2px;
+  color: #0e0e0ebf;
+  text-transform: none;
+  font-weight: 400;
+  margin-top: 0px;
+  padding: 0px;
+}
+
+#botBundle
+  .botBundleInner
+  .botBundleInnerWrapper
+  .botBundleInnerWrapperInner
+  .botBundleBottomPara
+  p
+  span {
+  color: rgba(204, 204, 204, 0.75);
+}
+
+/* responsive */
+
+@media only screen and (max-width: 1199px) {
+  #botBundle .botBundleInner {
+    padding: 0 100px 15px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox {
+    padding: 67px 140px 53px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerImage {
+    margin-top: -70px;
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerHeader
+    h1 {
+    font-size: 52px;
+    line-height: 64px;
+    letter-spacing: 0.78px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerSaveOver
+    p {
+    font-size: 17px;
+    line-height: 1.5em;
+    letter-spacing: 0.2px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsStar {
+    width: 33.33333%;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsText {
+    width: 33.33333%;
+    text-align: center;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsImage {
+    width: 33.33333%;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleBottomPara
+    p {
+    font-size: 17px;
+    line-height: 1.5em;
+    letter-spacing: 0.2px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  #botBundle .botBundleInner {
+    padding: 0 50px 15px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox {
+    padding: 67px 70px 36px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsStar {
+    width: 25%;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsText {
+    width: 50%;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsImage {
+    width: 25%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #botBundle {
+    padding-top: 0px;
+  }
+  #botBundle .botBundleInner {
+    padding: 0 15px 15px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner {
+    padding-top: 30px;
+    padding-right: 4px;
+    padding-bottom: 28px;
+    padding-left: 0px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleHeader {
+    margin: 40px 30px 50px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleHeader
+    h1 {
+    font-size: 18px;
+    line-height: 1.1em;
+    letter-spacing: 0.1px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox {
+    padding: 42px 20px 33px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerImage {
+    margin-top: -110px;
+    margin-left: -110px;
+    margin-right: -110px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerHeader
+    h1 {
+    font-size: 25px;
+    line-height: 1.23em;
+    letter-spacing: -0.3px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerPara {
+    margin-bottom: 15px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerPara
+    p {
+    font-size: 15px;
+    line-height: 1.4em;
+    letter-spacing: 0px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerButton {
+    margin-top: 5px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerButton
+    button {
+    font-size: 15px;
+    line-height: 55px;
+    letter-spacing: 0.1rem;
+    padding: 0px 30px;
+    height: 60px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerSaveOver
+    p {
+    font-size: 13px;
+    line-height: 1.4em;
+    letter-spacing: 0.2px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews {
+    display: block;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsStar {
+    width: 100%;
+    text-align: center;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsStar
+    img {
+    width: 40%;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsText {
+    width: 100%;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsImage {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleProductBox
+    .botBundleProductBoxInner
+    .botBundleProductBoxInnerReviews
+    .botBundleProductBoxInnerReviewsImage
+    img {
+    width: 40%;
+    height: auto;
+    max-width: 100%;
+  }
+  #botBundle
+    .botBundleInner
+    .botBundleInnerWrapper
+    .botBundleInnerWrapperInner
+    .botBundleBottomPara
+    p {
+    font-size: 10px;
+    line-height: 1.4em;
+    letter-spacing: 0.2px;
+  }
+}

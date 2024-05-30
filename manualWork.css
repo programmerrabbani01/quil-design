@@ -112,6 +112,245 @@
   margin-right: auto;
 }
 
+
+#manualWork .manualWorkBottom .manualWorkBottomInner {
+  padding: 0px 15px;
+}
+
+#manualWork .manualWorkBottom .manualWorkBottomInner .own_review {
+  background-color: #faf4e4a6;
+  padding: 29px 70px 51px;
+  border-radius: 15px;
+}
+
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner {
+  padding: 0px 15px;
+}
+
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper {
+  padding-top: 12px;
+  padding-bottom: 4px;
+}
+
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner {
+  padding: 0px 15px;
+}
+
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .icon {
+  padding-bottom: 0;
+  padding-top: 20px;
+}
+
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .icon
+  svg {
+  margin-left: -7px;
+  width: 21px;
+}
+
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .username
+  p {
+  font-size: 14px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.6em;
+  letter-spacing: 0.1px;
+  color: #383838bf;
+  text-transform: none;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+}
+
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .username
+  .use {
+  font-weight: 700;
+  text-decoration: underline;
+  font-style: normal;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .username
+  .dot {
+  letter-spacing: 0.63px;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .username
+  .date {
+  letter-spacing: 0.63px;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .dsc {
+  margin-top: 25px;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .dsc
+  p {
+  font-size: 18px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.5em;
+  letter-spacing: 0.2px;
+  color: #0e0e0ebf;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .person {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding-top: 28px;
+  padding-bottom: 0px;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .person
+  .pic {
+  width: 16.66667%;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .person
+  .pic
+  img {
+  width: 70%;
+  height: auto;
+  max-width: 100%;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .person
+  .per_text {
+  width: 83.33333%;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .person
+  .per_text
+  h1 {
+  font-size: 18px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.2em;
+  letter-spacing: 0.1px;
+  color: #0e0e0e;
+  text-transform: none;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+#manualWork
+  .manualWorkBottom
+  .manualWorkBottomInner
+  .own_review
+  .own_reviewInner
+  .own_reviewInnerWrapper
+  .own_reviewInnerWrapperInner
+  .person
+  .per_text
+  p {
+  font-size: 16px;
+  font-family: "Harmonia Sans", sans-serif;
+  line-height: 1.5em;
+  letter-spacing: 0.2px;
+  color: #0e0e0ebf;
+  text-transform: none;
+  font-weight: 400;
+  padding-bottom: 0;
+  margin-top: 5px;
+}
+
 /* responsive */
 
 @media only screen and (max-width: 1199px) {
@@ -146,11 +385,50 @@
     line-height: 1.6em;
     letter-spacing: 0.1px;
   }
+
+  /* *************************** */
+
   #manualWork .manualWorkBottom {
     padding-top: 70px;
     padding-right: 150px;
     padding-bottom: 10px;
     padding-left: 150px;
+  }
+
+  #manualWork
+    .manualWorkBottom
+    .manualWorkBottomInner
+    .own_review
+    .own_reviewInner
+    .own_reviewInnerWrapper
+    .own_reviewInnerWrapperInner
+    .dsc
+    p {
+    font-size: 19px;
+    line-height: 1.5em;
+    letter-spacing: 0.2px;
+  }
+  #manualWork
+    .manualWorkBottom
+    .manualWorkBottomInner
+    .own_review
+    .own_reviewInner
+    .own_reviewInnerWrapper
+    .own_reviewInnerWrapperInner
+    .person
+    .pic {
+    width: 25%;
+  }
+  #manualWork
+    .manualWorkBottom
+    .manualWorkBottomInner
+    .own_review
+    .own_reviewInner
+    .own_reviewInnerWrapper
+    .own_reviewInnerWrapperInner
+    .person
+    .per_text {
+    width: 75%;
   }
 }
 
@@ -179,6 +457,9 @@
     line-height: 1.1em;
     letter-spacing: 0px;
   }
+
+  /* ************************* */
+
   #manualWork .manualWorkBottom {
     padding-top: 46px;
     padding-right: 50px;
@@ -240,14 +521,57 @@
     .manualWorkTopInnerWrapper
     .manualWorkTopInnerWrapperInner
     .manualWorkTopImage {
-    margin-top: 20px !important;
-    margin-right: -45px !important;
-    margin-left: -45px !important;
+    margin-top: 20px;
+    margin-right: -45px;
+    margin-left: -45px;
   }
+
+  /* *********************** */
+
   #manualWork .manualWorkBottom {
     padding-top: 28px;
     padding-right: 25px;
     padding-bottom: 10px;
     padding-left: 25px;
+  }
+  
+  #manualWork .manualWorkBottom .manualWorkBottomInner .own_review {
+    padding: 15px 25px 51px;
+  }
+  #manualWork
+    .manualWorkBottom
+    .manualWorkBottomInner
+    .own_review
+    .own_reviewInner
+    .own_reviewInnerWrapper {
+    padding-top: 19px;
+    padding-bottom: 4px;
+  }
+  #manualWork
+    .manualWorkBottom
+    .manualWorkBottomInner
+    .own_review
+    .own_reviewInner
+    .own_reviewInnerWrapper
+    .own_reviewInnerWrapperInner
+    .dsc
+    p {
+    font-size: 15px;
+    line-height: 1.5em;
+    letter-spacing: 0.2px;
+  }
+  #manualWork
+    .manualWorkBottom
+    .manualWorkBottomInner
+    .own_review
+    .own_reviewInner
+    .own_reviewInnerWrapper
+    .own_reviewInnerWrapperInner
+    .person
+    .per_text
+    p {
+    font-size: 14px;
+    line-height: 1.5em;
+    letter-spacing: 0.2px;
   }
 }
